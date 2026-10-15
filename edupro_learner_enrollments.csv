@@ -1,0 +1,1201 @@
+Learner_ID,Enrollment_Date,Age,Gender,Region,Education_Level,Employment_Status,Course_Name,Enrollment_Source,Weekly_Study_Hours,Engagement_Score,Course_Duration_Weeks,Completed_Course,Satisfaction_Rating
+EDU00001,2025-12-01,26,Female,Maharashtra,Bachelor's,Employed Full-time,Web Development,Organic Search,5.8,56.0,12,Yes,4
+EDU00002,2025-12-27,28,Female,Karnataka,High School,Employed Full-time,Data Science Foundations,Organic Search,7.1,87.3,11,Yes,4
+EDU00003,2025-04-19,33,Female,Maharashtra,Master's,Self-employed,Web Development,Organic Search,3.5,60.9,14,Yes,4
+EDU00004,2025-06-16,18,Male,Uttar Pradesh,Bachelor's,Self-employed,Data Science Foundations,Social Media,3.0,54.4,12,Yes,5
+EDU00005,2025-04-20,46,Female,Maharashtra,High School,Employed Part-time,Machine Learning Basics,Referral,0.8,42.9,17,Yes,3
+EDU00006,2025-07-14,19,Female,Tamil Nadu,Other,Employed Full-time,Data Science Foundations,Organic Search,0.5,32.6,11,No,3
+EDU00007,2025-07-21,43,Male,Tamil Nadu,Bachelor's,Student,Python for Data Analysis,Referral,4.1,30.4,11,No,1
+EDU00008,2025-04-04,34,Female,West Bengal,Master's,Employed Full-time,Web Development,Paid Ads,4.3,57.7,9,Yes,4
+EDU00009,2025-08-24,55,Male,Maharashtra,Diploma,Employed Full-time,Python for Data Analysis,Paid Ads,2.1,14.0,15,Yes,4
+EDU00010,2025-01-03,44,Male,Maharashtra,High School,Student,Web Development,Paid Ads,2.6,41.5,11,No,3
+EDU00011,2025-08-24,35,Female,Other,Master's,Seeking work,Python for Data Analysis,Social Media,7.9,66.6,17,Yes,4
+EDU00012,2025-10-02,44,Female,Tamil Nadu,Bachelor's,Employed Full-time,Data Science Foundations,Referral,6.4,55.2,10,Yes,4
+EDU00013,2025-01-20,21,Male,Delhi NCR,Diploma,Student,Web Development,Referral,1.7,67.9,12,Yes,4
+EDU00014,2025-09-22,24,Female,Uttar Pradesh,Master's,Seeking work,Machine Learning Basics,Organic Search,3.5,70.9,14,Yes,4
+EDU00015,2025-09-27,36,Male,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,5.4,69.0,14,Yes,4
+EDU00016,2025-12-21,50,Male,Karnataka,Bachelor's,Employed Part-time,Machine Learning Basics,Email Campaign,3.1,36.3,20,No,5
+EDU00017,2025-10-22,48,Male,Other,Master's,Student,Python for Data Analysis,Referral,2.7,68.9,12,Yes,4
+EDU00018,2025-01-08,31,Female,Maharashtra,Bachelor's,Employed Full-time,Web Development,Organic Search,3.8,57.6,11,Yes,5
+EDU00019,2025-01-30,28,Non-binary,Other,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,6.9,51.3,15,Yes,5
+EDU00020,2025-02-20,54,Female,Maharashtra,Master's,Student,SQL for Analytics,Paid Ads,7.1,63.8,7,Yes,5
+EDU00021,2025-08-01,39,Male,Karnataka,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,2.9,58.1,13,No,3
+EDU00022,2025-09-17,21,Male,Maharashtra,Master's,Student,Machine Learning Basics,Organic Search,5.5,49.8,19,Yes,4
+EDU00023,2025-08-29,25,Female,West Bengal,Master's,Student,Web Development,Referral,4.5,54.7,10,Yes,4
+EDU00024,2025-05-01,49,Female,Other,Bachelor's,Student,Business Intelligence,Email Campaign,2.3,48.0,9,Yes,2
+EDU00025,2025-03-15,52,Female,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,3.8,37.0,15,Yes,2
+EDU00026,2025-01-24,52,Male,Karnataka,Other,Student,Data Science Foundations,Organic Search,1.7,38.6,9,Yes,4
+EDU00027,2025-05-17,17,Female,Karnataka,Master's,Self-employed,Python for Data Analysis,Email Campaign,7.1,51.1,11,Yes,4
+EDU00028,2025-04-20,49,Male,Maharashtra,Diploma,Employed Full-time,Web Development,Paid Ads,7.9,77.0,12,Yes,4
+EDU00029,2025-04-21,21,Male,West Bengal,Diploma,Student,Python for Data Analysis,Social Media,3.6,38.5,15,Yes,4
+EDU00030,2025-02-02,48,Female,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Email Campaign,3.1,50.9,17,Yes,3
+EDU00031,2025-04-17,51,Male,Other,Master's,Student,Data Science Foundations,Social Media,6.8,45.5,12,Yes,3
+EDU00032,2025-11-02,31,Female,Other,Master's,Employed Full-time,Web Development,Email Campaign,7.2,50.2,11,Yes,3
+EDU00033,2025-03-29,24,Female,Maharashtra,Master's,Seeking work,SQL for Analytics,Referral,2.0,28.8,6,Yes,3
+EDU00034,2025-11-17,44,Male,Delhi NCR,Diploma,Employed Part-time,SQL for Analytics,Paid Ads,4.2,48.3,6,No,2
+EDU00035,2025-02-01,19,Female,Other,Master's,Employed Part-time,Web Development,Email Campaign,4.4,54.8,10,Yes,3
+EDU00036,2025-08-21,39,Male,Other,High School,Employed Full-time,Web Development,Social Media,2.8,50.6,9,No,2
+EDU00037,2025-02-09,29,Prefer not to say,Uttar Pradesh,Bachelor's,Student,Machine Learning Basics,Organic Search,5.3,34.9,12,Yes,3
+EDU00038,2025-05-21,33,Female,Maharashtra,Bachelor's,Employed Part-time,Business Intelligence,Email Campaign,3.0,45.0,9,Yes,4
+EDU00039,2025-12-15,49,Male,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Organic Search,3.3,39.2,18,No,4
+EDU00040,2025-10-08,55,Female,West Bengal,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,4.3,58.6,6,Yes,3
+EDU00041,2025-07-07,32,Male,Karnataka,Diploma,Seeking work,Python for Data Analysis,Social Media,1.2,36.6,13,No,4
+EDU00042,2025-08-19,28,Prefer not to say,Uttar Pradesh,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,0.5,36.0,12,No,3
+EDU00043,2025-08-30,49,Male,Uttar Pradesh,Master's,Self-employed,Machine Learning Basics,Email Campaign,6.5,52.1,15,Yes,5
+EDU00044,2025-10-17,33,Male,Delhi NCR,High School,Employed Full-time,Python for Data Analysis,Referral,2.9,67.3,17,Yes,4
+EDU00045,2025-08-05,24,Female,Maharashtra,Bachelor's,Student,Data Science Foundations,Paid Ads,9.2,56.4,13,Yes,2
+EDU00046,2025-07-06,52,Male,Karnataka,Diploma,Student,Business Intelligence,Organic Search,8.8,65.4,6,Yes,5
+EDU00047,2025-01-28,55,Female,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,3.4,49.9,11,Yes,3
+EDU00048,2025-12-16,28,Male,Karnataka,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,9.6,70.4,19,Yes,4
+EDU00049,2025-07-26,23,Female,Maharashtra,Bachelor's,Employed Part-time,Machine Learning Basics,Social Media,6.6,52.2,13,No,4
+EDU00050,2025-04-16,22,Female,Other,Bachelor's,Employed Part-time,Data Science Foundations,Referral,3.1,25.7,17,Yes,2
+EDU00051,2025-02-19,40,Female,Uttar Pradesh,Diploma,Employed Full-time,Data Science Foundations,Social Media,0.5,28.7,12,No,3
+EDU00052,2025-08-09,29,Female,Tamil Nadu,Master's,Employed Full-time,Data Science Foundations,Organic Search,6.0,47.5,8,Yes,4
+EDU00053,2025-10-13,41,Female,West Bengal,High School,Employed Full-time,Data Science Foundations,Paid Ads,4.6,73.6,13,Yes,4
+EDU00054,2025-10-22,46,Female,Delhi NCR,Master's,Employed Full-time,Machine Learning Basics,Organic Search,5.4,83.8,19,Yes,4
+EDU00055,2025-11-20,17,Male,Other,Diploma,Seeking work,Business Intelligence,Social Media,4.0,50.4,8,No,4
+EDU00056,2025-11-23,50,Male,Other,Master's,Student,Web Development,Paid Ads,2.0,26.1,16,No,2
+EDU00057,2025-08-16,18,Female,Karnataka,High School,Seeking work,Python for Data Analysis,Referral,3.6,58.3,16,Yes,3
+EDU00058,2025-12-12,21,Male,Karnataka,Bachelor's,Student,Business Intelligence,Social Media,6.1,47.6,6,Yes,3
+EDU00059,2025-01-28,45,Female,Karnataka,Bachelor's,Student,Data Science Foundations,Paid Ads,3.7,43.2,9,No,4
+EDU00060,2025-05-25,41,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Business Intelligence,Referral,3.7,42.3,7,Yes,3
+EDU00061,2025-06-26,55,Female,Tamil Nadu,Master's,Student,Python for Data Analysis,Organic Search,1.2,33.8,13,No,4
+EDU00062,2025-09-13,39,Male,Delhi NCR,High School,Student,SQL for Analytics,Organic Search,4.7,49.5,9,Yes,4
+EDU00063,2025-04-20,33,Female,Other,Bachelor's,Student,SQL for Analytics,Paid Ads,2.1,27.6,7,Yes,3
+EDU00064,2025-04-16,43,Female,Delhi NCR,Master's,Employed Part-time,Data Science Foundations,Social Media,6.5,52.6,17,No,4
+EDU00065,2025-11-26,46,Male,West Bengal,Master's,Employed Full-time,Web Development,Email Campaign,2.9,58.8,11,Yes,4
+EDU00066,2025-08-26,43,Male,Uttar Pradesh,Bachelor's,Student,Python for Data Analysis,Organic Search,3.8,49.8,15,No,4
+EDU00067,2025-08-20,31,Male,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,9.3,73.7,15,Yes,3
+EDU00068,2025-03-09,54,Female,Maharashtra,Master's,Student,Machine Learning Basics,Paid Ads,3.8,23.4,12,No,4
+EDU00069,2025-07-02,28,Male,Uttar Pradesh,Master's,Seeking work,SQL for Analytics,Paid Ads,3.5,60.4,7,Yes,4
+EDU00070,2025-06-03,30,Male,Tamil Nadu,Master's,Student,Data Science Foundations,Organic Search,5.8,50.0,10,Yes,4
+EDU00071,2025-08-15,27,Female,Maharashtra,Master's,Employed Full-time,Data Science Foundations,Organic Search,0.6,50.9,16,No,3
+EDU00072,2025-12-02,28,Female,West Bengal,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,7.3,66.1,11,Yes,3
+EDU00073,2025-04-12,25,Female,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Referral,6.7,55.1,16,Yes,2
+EDU00074,2025-10-23,39,Female,Karnataka,Bachelor's,Seeking work,SQL for Analytics,Social Media,5.7,37.7,8,Yes,3
+EDU00075,2025-08-20,45,Female,West Bengal,High School,Employed Full-time,Data Science Foundations,Organic Search,0.5,63.1,12,Yes,4
+EDU00076,2025-07-01,33,Female,Karnataka,Master's,Employed Part-time,Data Science Foundations,Paid Ads,3.9,60.2,16,No,5
+EDU00077,2025-12-13,52,Male,Tamil Nadu,Bachelor's,Employed Full-time,Web Development,Organic Search,1.7,52.2,12,No,4
+EDU00078,2025-02-23,35,Male,Tamil Nadu,High School,Employed Part-time,Web Development,Social Media,7.0,84.8,15,Yes,4
+EDU00079,2025-09-05,35,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Social Media,6.8,64.9,12,Yes,3
+EDU00080,2025-05-26,19,Male,Delhi NCR,Diploma,Student,Machine Learning Basics,Organic Search,5.4,72.8,12,Yes,5
+EDU00081,2025-09-06,52,Female,Maharashtra,High School,Student,Python for Data Analysis,Referral,1.9,36.9,8,No,2
+EDU00082,2025-02-20,22,Male,Maharashtra,Bachelor's,Student,Python for Data Analysis,Social Media,7.8,75.1,10,Yes,5
+EDU00083,2025-09-26,23,Male,Uttar Pradesh,Bachelor's,Seeking work,Web Development,Referral,3.9,43.0,15,No,5
+EDU00084,2025-01-26,53,Male,Maharashtra,Bachelor's,Self-employed,Web Development,Social Media,8.5,63.0,11,Yes,5
+EDU00085,2025-05-08,37,Female,Other,High School,Student,Python for Data Analysis,Organic Search,5.1,56.6,12,Yes,4
+EDU00086,2025-11-27,19,Male,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Paid Ads,5.6,42.2,9,No,3
+EDU00087,2025-08-19,34,Male,Karnataka,High School,Employed Part-time,Business Intelligence,Referral,3.5,53.0,9,Yes,4
+EDU00088,2025-06-29,40,Male,Other,Master's,Employed Full-time,Business Intelligence,Social Media,7.6,61.7,10,Yes,5
+EDU00089,2025-05-01,17,Male,Delhi NCR,Diploma,Employed Full-time,Business Intelligence,Organic Search,5.8,34.3,9,Yes,3
+EDU00090,2025-02-02,46,Male,Tamil Nadu,Master's,Employed Part-time,SQL for Analytics,Referral,7.7,60.3,11,Yes,3
+EDU00091,2025-02-10,43,Non-binary,Uttar Pradesh,High School,Student,Web Development,Email Campaign,4.9,50.5,8,Yes,3
+EDU00092,2025-09-19,17,Male,Other,High School,Employed Full-time,Python for Data Analysis,Referral,4.4,62.8,8,Yes,3
+EDU00093,2025-04-11,41,Prefer not to say,Maharashtra,Bachelor's,Student,SQL for Analytics,Email Campaign,5.8,61.6,9,No,5
+EDU00094,2025-01-28,25,Male,Maharashtra,Master's,Student,Data Science Foundations,Organic Search,7.7,83.2,10,Yes,4
+EDU00095,2025-06-09,45,Female,Other,Other,Employed Part-time,Business Intelligence,Paid Ads,6.7,68.0,10,Yes,4
+EDU00096,2025-05-25,31,Male,Maharashtra,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,4.8,47.6,15,Yes,4
+EDU00097,2025-12-16,24,Female,Uttar Pradesh,Bachelor's,Seeking work,SQL for Analytics,Social Media,0.5,36.3,6,No,4
+EDU00098,2025-03-26,36,Female,Tamil Nadu,High School,Student,Business Intelligence,Referral,6.3,56.0,11,Yes,4
+EDU00099,2025-04-08,34,Female,Tamil Nadu,Bachelor's,Employed Part-time,Data Science Foundations,Organic Search,1.3,46.1,8,No,4
+EDU00100,2025-03-02,30,Male,West Bengal,Bachelor's,Seeking work,Data Science Foundations,Social Media,4.6,54.1,14,Yes,3
+EDU00101,2025-03-10,51,Female,Other,Master's,Employed Part-time,Data Science Foundations,Organic Search,4.2,44.3,11,No,4
+EDU00102,2025-07-14,42,Female,Maharashtra,Bachelor's,Seeking work,Machine Learning Basics,Email Campaign,1.4,40.7,19,No,4
+EDU00103,2025-03-23,36,Female,Tamil Nadu,Master's,Seeking work,Data Science Foundations,Email Campaign,5.3,61.7,9,Yes,3
+EDU00104,2025-09-20,25,Male,Uttar Pradesh,Master's,Self-employed,SQL for Analytics,Referral,9.2,59.7,11,Yes,5
+EDU00105,2025-10-26,39,Male,Karnataka,High School,Seeking work,SQL for Analytics,Social Media,3.8,54.0,11,No,3
+EDU00106,2025-06-27,17,Prefer not to say,Other,Bachelor's,Employed Full-time,Web Development,Social Media,6.2,40.9,13,No,4
+EDU00107,2025-03-29,51,Female,Delhi NCR,Master's,Employed Full-time,Business Intelligence,Paid Ads,9.7,87.1,9,Yes,4
+EDU00108,2025-10-27,17,Female,Maharashtra,Bachelor's,Seeking work,Python for Data Analysis,Referral,6.4,66.9,14,Yes,4
+EDU00109,2025-12-19,44,Male,Other,Bachelor's,Self-employed,Web Development,Referral,3.1,67.0,13,Yes,4
+EDU00110,2025-12-01,30,Female,Other,Master's,Student,Business Intelligence,Organic Search,5.0,41.6,9,Yes,3
+EDU00111,2025-12-02,45,Prefer not to say,Maharashtra,Diploma,Employed Full-time,Business Intelligence,Organic Search,5.6,71.0,9,Yes,4
+EDU00112,2025-10-22,31,Male,Uttar Pradesh,Master's,Student,SQL for Analytics,Social Media,7.7,77.0,11,Yes,4
+EDU00113,2025-09-27,18,Male,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Email Campaign,7.2,61.6,13,Yes,3
+EDU00114,2025-12-16,53,Female,Maharashtra,Bachelor's,Student,Machine Learning Basics,Paid Ads,0.5,32.5,13,No,2
+EDU00115,2025-05-04,46,Female,Karnataka,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,2.6,32.4,11,Yes,2
+EDU00116,2025-12-06,18,Male,Other,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,4.3,36.1,10,No,3
+EDU00117,2025-01-08,18,Female,Maharashtra,High School,Student,Python for Data Analysis,Social Media,2.3,35.2,9,Yes,4
+EDU00118,2025-10-31,37,Male,Maharashtra,High School,Seeking work,Data Science Foundations,Email Campaign,0.5,21.9,17,Yes,2
+EDU00119,2025-05-02,54,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Machine Learning Basics,Social Media,2.9,65.7,13,Yes,5
+EDU00120,2025-04-17,39,Female,Delhi NCR,Bachelor's,Student,Python for Data Analysis,Referral,4.5,35.0,9,Yes,3
+EDU00121,2025-09-04,17,Female,Maharashtra,Bachelor's,Student,Machine Learning Basics,Email Campaign,3.3,50.0,17,No,3
+EDU00122,2025-03-05,44,Male,Maharashtra,High School,Self-employed,Business Intelligence,Organic Search,2.3,49.4,10,Yes,4
+EDU00123,2025-12-29,33,Female,West Bengal,High School,Employed Full-time,Data Science Foundations,Social Media,4.6,57.7,9,Yes,5
+EDU00124,2025-09-23,41,Male,Tamil Nadu,Diploma,Employed Full-time,Python for Data Analysis,Social Media,5.3,61.5,12,No,3
+EDU00125,2025-01-08,30,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,3.5,60.4,9,No,5
+EDU00126,2025-11-05,17,Male,Maharashtra,Diploma,Seeking work,Data Science Foundations,Social Media,7.5,59.6,12,Yes,4
+EDU00127,2025-02-09,17,Female,Delhi NCR,High School,Self-employed,Business Intelligence,Organic Search,4.6,54.5,8,No,4
+EDU00128,2025-10-28,41,Female,West Bengal,Bachelor's,Employed Part-time,Machine Learning Basics,Organic Search,2.6,41.9,12,Yes,4
+EDU00129,2025-10-24,41,Male,Karnataka,Master's,Employed Full-time,Web Development,Email Campaign,2.0,58.6,16,No,4
+EDU00130,2025-08-23,29,Male,Maharashtra,Bachelor's,Seeking work,Web Development,Paid Ads,4.0,76.2,14,Yes,4
+EDU00131,2025-08-08,20,Male,Karnataka,Diploma,Employed Part-time,Python for Data Analysis,Paid Ads,6.9,48.3,16,Yes,3
+EDU00132,2025-10-30,47,Male,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Paid Ads,2.7,21.4,21,Yes,4
+EDU00133,2025-11-07,22,Male,Maharashtra,Bachelor's,Seeking work,SQL for Analytics,Organic Search,5.8,65.0,11,Yes,3
+EDU00134,2025-09-16,24,Female,Other,Bachelor's,Seeking work,SQL for Analytics,Organic Search,4.7,66.6,10,Yes,4
+EDU00135,2025-03-04,34,Female,Delhi NCR,Diploma,Employed Part-time,Data Science Foundations,Referral,8.9,94.1,11,Yes,5
+EDU00136,2025-08-31,44,Male,Tamil Nadu,Diploma,Self-employed,Data Science Foundations,Referral,5.4,65.5,15,Yes,5
+EDU00137,2025-03-15,55,Female,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Email Campaign,3.0,63.7,17,Yes,3
+EDU00138,2025-01-18,41,Male,Tamil Nadu,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,6.1,79.3,14,Yes,5
+EDU00139,2025-02-25,54,Female,Tamil Nadu,Bachelor's,Student,Data Science Foundations,Paid Ads,6.2,77.4,11,Yes,4
+EDU00140,2025-06-18,42,Female,Other,Diploma,Employed Full-time,Python for Data Analysis,Social Media,3.6,60.0,11,Yes,2
+EDU00141,2025-12-18,50,Female,Delhi NCR,High School,Employed Full-time,Machine Learning Basics,Referral,1.9,27.2,16,Yes,3
+EDU00142,2025-01-13,23,Male,West Bengal,High School,Employed Full-time,Business Intelligence,Paid Ads,5.7,57.7,10,Yes,4
+EDU00143,2025-01-28,19,Male,Karnataka,High School,Seeking work,SQL for Analytics,Referral,4.6,57.0,8,Yes,4
+EDU00144,2025-02-03,43,Female,Tamil Nadu,Bachelor's,Student,Python for Data Analysis,Email Campaign,1.2,38.6,10,No,3
+EDU00145,2025-03-11,55,Female,Other,High School,Self-employed,Data Science Foundations,Email Campaign,5.1,54.9,9,No,4
+EDU00146,2025-07-17,45,Female,Tamil Nadu,Bachelor's,Employed Full-time,Business Intelligence,Email Campaign,3.1,66.2,11,Yes,4
+EDU00147,2025-10-27,30,Female,Uttar Pradesh,Diploma,Student,Business Intelligence,Email Campaign,1.2,30.7,8,Yes,4
+EDU00148,2025-01-18,36,Male,Other,Bachelor's,Student,Python for Data Analysis,Social Media,3.7,59.4,12,No,3
+EDU00149,2025-10-21,21,Female,Other,Master's,Employed Full-time,SQL for Analytics,Social Media,7.3,68.0,10,Yes,4
+EDU00150,2025-11-30,30,Female,Maharashtra,Master's,Employed Full-time,SQL for Analytics,Email Campaign,7.2,53.5,11,Yes,4
+EDU00151,2025-01-29,43,Female,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Referral,6.6,48.5,17,Yes,3
+EDU00152,2025-06-14,23,Male,Tamil Nadu,Bachelor's,Employed Part-time,Python for Data Analysis,Referral,5.1,35.0,14,Yes,2
+EDU00153,2025-10-25,35,Male,Other,Bachelor's,Employed Full-time,Machine Learning Basics,Social Media,5.8,64.0,13,Yes,4
+EDU00154,2025-09-13,28,Male,Delhi NCR,Master's,Student,Web Development,Organic Search,4.7,53.0,16,Yes,4
+EDU00155,2025-03-09,36,Male,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,2.1,33.5,13,Yes,3
+EDU00156,2025-02-23,46,Prefer not to say,Tamil Nadu,High School,Student,Data Science Foundations,Paid Ads,2.5,22.5,14,Yes,3
+EDU00157,2025-06-12,51,Male,Maharashtra,Master's,Student,Python for Data Analysis,Social Media,3.2,53.0,9,No,3
+EDU00158,2025-11-06,32,Male,Maharashtra,High School,Student,Python for Data Analysis,Social Media,7.6,63.3,14,Yes,4
+EDU00159,2025-12-13,49,Male,Maharashtra,Master's,Employed Part-time,Web Development,Organic Search,6.9,54.0,11,Yes,4
+EDU00160,2025-06-24,44,Female,Maharashtra,High School,Employed Part-time,Web Development,Referral,2.1,31.8,12,No,4
+EDU00161,2025-07-13,52,Male,Uttar Pradesh,High School,Self-employed,Python for Data Analysis,Social Media,4.6,50.5,14,Yes,2
+EDU00162,2025-07-23,45,Male,Karnataka,Master's,Employed Part-time,Web Development,Email Campaign,3.6,55.0,15,Yes,4
+EDU00163,2025-06-28,38,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,4.2,47.8,11,No,3
+EDU00164,2025-08-25,43,Female,Delhi NCR,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,3.3,33.9,11,Yes,4
+EDU00165,2025-04-10,29,Female,Karnataka,Master's,Student,Machine Learning Basics,Organic Search,7.6,64.7,13,Yes,5
+EDU00166,2025-07-17,43,Male,Delhi NCR,Master's,Employed Part-time,Data Science Foundations,Organic Search,4.5,65.5,13,Yes,3
+EDU00167,2025-08-12,44,Female,Karnataka,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,5.0,55.5,6,Yes,4
+EDU00168,2025-07-25,40,Female,Maharashtra,Other,Student,Machine Learning Basics,Paid Ads,5.0,55.8,14,No,3
+EDU00169,2025-12-22,21,Female,Uttar Pradesh,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,2.2,39.9,16,No,3
+EDU00170,2025-09-29,37,Male,Maharashtra,Diploma,Student,Web Development,Paid Ads,4.7,43.1,8,Yes,3
+EDU00171,2025-09-25,44,Male,Maharashtra,Master's,Student,Python for Data Analysis,Organic Search,6.8,51.1,16,No,4
+EDU00172,2025-10-22,24,Male,Maharashtra,Bachelor's,Seeking work,Python for Data Analysis,Paid Ads,7.7,45.9,11,Yes,3
+EDU00173,2025-07-12,47,Male,Karnataka,Master's,Employed Full-time,Web Development,Social Media,2.0,57.2,14,No,4
+EDU00174,2025-04-22,49,Female,Maharashtra,High School,Employed Full-time,SQL for Analytics,Email Campaign,1.2,45.3,6,Yes,5
+EDU00175,2025-07-15,38,Female,Karnataka,High School,Student,Data Science Foundations,Referral,4.6,54.4,14,Yes,3
+EDU00176,2025-12-03,54,Female,Karnataka,High School,Employed Full-time,Data Science Foundations,Social Media,6.9,66.1,16,Yes,4
+EDU00177,2025-11-17,50,Female,Maharashtra,Bachelor's,Seeking work,Python for Data Analysis,Social Media,5.3,60.3,13,Yes,4
+EDU00178,2025-05-10,35,Male,Other,Master's,Employed Part-time,Data Science Foundations,Organic Search,6.0,50.2,11,No,3
+EDU00179,2025-06-26,51,Female,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,1.5,37.1,15,No,4
+EDU00180,2025-04-10,53,Female,Maharashtra,High School,Employed Full-time,SQL for Analytics,Referral,3.2,42.1,10,No,3
+EDU00181,2025-01-05,21,Male,Delhi NCR,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,0.5,67.1,6,Yes,4
+EDU00182,2025-04-24,55,Male,Maharashtra,Bachelor's,Employed Full-time,Web Development,Organic Search,4.2,64.0,14,Yes,3
+EDU00183,2025-02-06,17,Female,West Bengal,Bachelor's,Student,Web Development,Referral,0.5,39.0,14,No,3
+EDU00184,2025-05-11,35,Male,Maharashtra,Bachelor's,Student,Data Science Foundations,Referral,7.4,81.0,15,Yes,4
+EDU00185,2025-01-20,53,Male,Delhi NCR,High School,Employed Part-time,Web Development,Organic Search,7.9,81.5,11,Yes,5
+EDU00186,2025-04-26,45,Male,Other,Bachelor's,Self-employed,Web Development,Social Media,4.8,37.6,12,No,3
+EDU00187,2025-09-18,27,Male,Maharashtra,Bachelor's,Seeking work,Web Development,Social Media,1.2,37.1,17,No,3
+EDU00188,2025-11-04,42,Female,Maharashtra,Diploma,Self-employed,Machine Learning Basics,Referral,5.3,56.0,17,Yes,4
+EDU00189,2025-11-20,25,Female,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,8.6,76.7,13,Yes,5
+EDU00190,2025-07-24,26,Female,Other,Bachelor's,Self-employed,Python for Data Analysis,Organic Search,5.5,54.3,17,Yes,4
+EDU00191,2025-07-19,52,Male,Karnataka,Bachelor's,Seeking work,Web Development,Social Media,7.1,62.2,10,Yes,5
+EDU00192,2025-12-20,18,Male,Tamil Nadu,High School,Student,SQL for Analytics,Paid Ads,3.4,43.1,8,Yes,4
+EDU00193,2025-07-22,54,Male,Maharashtra,Diploma,Employed Full-time,Web Development,Email Campaign,2.6,58.0,15,Yes,4
+EDU00194,2025-01-31,34,Male,Tamil Nadu,Master's,Student,Business Intelligence,Organic Search,4.3,34.9,10,No,4
+EDU00195,2025-12-08,19,Female,Karnataka,Diploma,Seeking work,Python for Data Analysis,Referral,0.5,31.9,17,Yes,4
+EDU00196,2025-08-13,47,Female,Tamil Nadu,Master's,Seeking work,Data Science Foundations,Paid Ads,9.5,50.9,14,Yes,4
+EDU00197,2025-09-01,18,Female,Maharashtra,Bachelor's,Self-employed,Web Development,Organic Search,4.8,41.8,11,No,3
+EDU00198,2025-02-05,29,Female,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,6.4,64.4,12,Yes,4
+EDU00199,2025-06-21,26,Male,Maharashtra,Master's,Seeking work,Machine Learning Basics,Organic Search,3.5,53.0,12,No,4
+EDU00200,2025-06-17,47,Male,Uttar Pradesh,Bachelor's,Student,Web Development,Organic Search,1.1,35.6,16,No,3
+EDU00201,2025-10-25,32,Female,Uttar Pradesh,Diploma,Student,Python for Data Analysis,Email Campaign,7.6,78.9,9,Yes,3
+EDU00202,2025-05-20,42,Male,West Bengal,High School,Employed Full-time,Data Science Foundations,Email Campaign,2.0,59.2,13,Yes,3
+EDU00203,2025-05-06,19,Female,Other,Bachelor's,Self-employed,SQL for Analytics,Referral,5.3,55.4,8,Yes,3
+EDU00204,2025-09-06,44,Male,Delhi NCR,Bachelor's,Seeking work,Business Intelligence,Social Media,5.5,60.0,6,Yes,3
+EDU00205,2025-01-06,44,Female,Uttar Pradesh,Master's,Employed Full-time,SQL for Analytics,Email Campaign,4.7,48.4,7,Yes,3
+EDU00206,2025-09-30,28,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,2.8,53.7,14,Yes,4
+EDU00207,2025-01-03,51,Female,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,4.2,37.5,8,No,3
+EDU00208,2025-03-28,35,Female,Tamil Nadu,Diploma,Student,Data Science Foundations,Organic Search,2.4,66.2,17,Yes,4
+EDU00209,2025-07-01,43,Male,Delhi NCR,Diploma,Self-employed,Data Science Foundations,Paid Ads,6.3,73.9,16,Yes,3
+EDU00210,2025-03-12,24,Female,Delhi NCR,Master's,Employed Full-time,Python for Data Analysis,Email Campaign,5.8,43.8,9,Yes,4
+EDU00211,2025-01-13,53,Male,Uttar Pradesh,High School,Student,Business Intelligence,Referral,4.5,43.5,11,No,4
+EDU00212,2025-06-03,26,Female,West Bengal,Master's,Employed Full-time,Python for Data Analysis,Email Campaign,3.2,52.9,11,Yes,3
+EDU00213,2025-09-16,41,Non-binary,West Bengal,High School,Employed Part-time,Business Intelligence,Organic Search,9.1,67.3,6,Yes,3
+EDU00214,2025-03-30,20,Female,Delhi NCR,Bachelor's,Seeking work,Web Development,Social Media,1.6,47.9,11,Yes,3
+EDU00215,2025-04-11,18,Male,Karnataka,High School,Student,Machine Learning Basics,Email Campaign,1.1,35.1,20,No,4
+EDU00216,2025-09-04,21,Male,Other,Master's,Student,Machine Learning Basics,Paid Ads,4.3,70.5,18,Yes,4
+EDU00217,2025-12-12,53,Male,Tamil Nadu,Diploma,Seeking work,Python for Data Analysis,Referral,3.9,50.7,10,Yes,4
+EDU00218,2025-07-08,25,Female,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,6.9,91.6,10,Yes,4
+EDU00219,2025-07-24,51,Male,Tamil Nadu,Master's,Employed Full-time,Data Science Foundations,Paid Ads,5.9,65.8,14,Yes,4
+EDU00220,2025-10-29,39,Female,Tamil Nadu,Bachelor's,Student,Data Science Foundations,Social Media,4.6,37.2,15,Yes,4
+EDU00221,2025-01-25,20,Male,Uttar Pradesh,Diploma,Seeking work,Machine Learning Basics,Social Media,5.6,82.4,17,Yes,4
+EDU00222,2025-12-25,34,Female,Tamil Nadu,Master's,Employed Part-time,Python for Data Analysis,Organic Search,5.6,70.6,15,Yes,4
+EDU00223,2025-06-23,35,Male,Other,Bachelor's,Student,Data Science Foundations,Organic Search,9.1,76.0,14,Yes,4
+EDU00224,2025-05-19,27,Male,Other,High School,Student,Machine Learning Basics,Referral,5.1,63.2,12,Yes,4
+EDU00225,2025-08-14,40,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Referral,3.0,32.7,10,Yes,5
+EDU00226,2025-11-29,50,Female,Maharashtra,Master's,Student,Python for Data Analysis,Organic Search,4.9,32.9,11,No,3
+EDU00227,2025-12-09,51,Female,Tamil Nadu,Bachelor's,Student,Python for Data Analysis,Organic Search,0.5,36.5,14,Yes,4
+EDU00228,2025-10-11,37,Male,Tamil Nadu,Master's,Student,Data Science Foundations,Referral,4.4,69.1,14,No,4
+EDU00229,2025-06-26,51,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Social Media,6.9,67.3,8,Yes,5
+EDU00230,2025-02-24,53,Male,Other,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,5.8,78.7,6,Yes,4
+EDU00231,2025-03-11,20,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,5.2,71.7,14,Yes,5
+EDU00232,2025-11-02,41,Male,Karnataka,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,5.9,58.8,21,Yes,4
+EDU00233,2025-02-15,47,Female,Other,Bachelor's,Self-employed,Web Development,Paid Ads,6.9,76.8,16,Yes,5
+EDU00234,2025-06-25,17,Female,Other,Diploma,Student,Machine Learning Basics,Social Media,7.6,83.7,18,Yes,5
+EDU00235,2025-05-29,40,Female,Delhi NCR,Bachelor's,Seeking work,SQL for Analytics,Email Campaign,5.5,56.0,7,Yes,3
+EDU00236,2025-09-16,52,Male,Maharashtra,Master's,Seeking work,Machine Learning Basics,Paid Ads,3.8,47.6,14,No,3
+EDU00237,2025-05-06,27,Female,Delhi NCR,Diploma,Seeking work,Web Development,Organic Search,0.5,38.7,15,No,4
+EDU00238,2025-09-14,50,Female,Delhi NCR,Diploma,Student,Web Development,Paid Ads,6.7,32.9,12,No,3
+EDU00239,2025-07-05,53,Female,Delhi NCR,High School,Student,Python for Data Analysis,Referral,5.6,60.8,15,Yes,4
+EDU00240,2025-11-20,41,Male,Karnataka,High School,Employed Full-time,Python for Data Analysis,Referral,4.8,62.8,11,Yes,4
+EDU00241,2025-03-10,41,Non-binary,Karnataka,Other,Student,Python for Data Analysis,Referral,3.0,48.7,8,Yes,3
+EDU00242,2025-10-05,37,Female,Uttar Pradesh,Bachelor's,Student,Business Intelligence,Organic Search,6.6,65.5,9,Yes,4
+EDU00243,2025-09-21,32,Female,Tamil Nadu,Bachelor's,Student,Python for Data Analysis,Email Campaign,3.9,50.1,13,No,3
+EDU00244,2025-10-28,34,Female,Uttar Pradesh,Master's,Employed Full-time,Web Development,Email Campaign,4.4,28.6,14,No,4
+EDU00245,2025-06-28,37,Female,Karnataka,Bachelor's,Self-employed,Python for Data Analysis,Organic Search,4.4,72.6,10,Yes,3
+EDU00246,2025-04-28,35,Prefer not to say,Karnataka,Master's,Student,Machine Learning Basics,Referral,5.5,52.6,20,Yes,4
+EDU00247,2025-07-08,49,Female,Karnataka,Other,Seeking work,Data Science Foundations,Paid Ads,2.0,35.6,12,No,4
+EDU00248,2025-12-22,46,Male,Other,Master's,Self-employed,SQL for Analytics,Paid Ads,5.7,74.1,10,Yes,4
+EDU00249,2025-03-13,30,Male,Delhi NCR,Bachelor's,Student,SQL for Analytics,Referral,2.9,58.3,9,Yes,3
+EDU00250,2025-08-30,37,Male,Tamil Nadu,Bachelor's,Employed Full-time,Business Intelligence,Organic Search,3.0,50.3,8,Yes,3
+EDU00251,2025-03-23,25,Female,Delhi NCR,Master's,Student,SQL for Analytics,Social Media,6.4,69.8,10,Yes,4
+EDU00252,2025-10-10,23,Male,Other,High School,Seeking work,SQL for Analytics,Organic Search,2.3,30.3,9,No,3
+EDU00253,2025-06-04,31,Female,Karnataka,Master's,Employed Part-time,Business Intelligence,Paid Ads,6.4,59.6,9,Yes,2
+EDU00254,2025-11-10,19,Female,Delhi NCR,Bachelor's,Employed Part-time,Web Development,Email Campaign,4.7,69.3,14,Yes,4
+EDU00255,2025-03-01,50,Prefer not to say,West Bengal,Bachelor's,Employed Part-time,Business Intelligence,Paid Ads,0.9,30.5,6,No,3
+EDU00256,2025-02-15,21,Female,Maharashtra,Master's,Employed Full-time,Business Intelligence,Organic Search,7.5,53.0,11,No,4
+EDU00257,2025-12-14,29,Female,Tamil Nadu,Bachelor's,Seeking work,SQL for Analytics,Paid Ads,5.2,56.7,8,Yes,4
+EDU00258,2025-05-03,26,Female,Delhi NCR,High School,Seeking work,Web Development,Paid Ads,5.4,57.8,10,Yes,4
+EDU00259,2025-01-31,25,Female,Other,Bachelor's,Employed Part-time,SQL for Analytics,Email Campaign,6.7,69.6,10,Yes,4
+EDU00260,2025-11-02,31,Male,Uttar Pradesh,Master's,Employed Full-time,Web Development,Paid Ads,7.8,49.7,10,Yes,3
+EDU00261,2025-06-01,45,Male,Maharashtra,Bachelor's,Student,Business Intelligence,Social Media,4.9,24.0,11,Yes,2
+EDU00262,2025-12-03,51,Male,West Bengal,Master's,Student,Python for Data Analysis,Social Media,5.9,69.7,12,Yes,4
+EDU00263,2025-06-09,24,Female,Uttar Pradesh,Master's,Student,Python for Data Analysis,Organic Search,5.3,43.2,11,Yes,3
+EDU00264,2025-10-03,26,Female,Tamil Nadu,Master's,Employed Full-time,Business Intelligence,Organic Search,3.7,42.5,6,Yes,4
+EDU00265,2025-07-31,35,Male,Maharashtra,Bachelor's,Self-employed,Machine Learning Basics,Organic Search,1.0,12.8,11,No,3
+EDU00266,2025-06-26,29,Male,Maharashtra,Bachelor's,Seeking work,Machine Learning Basics,Email Campaign,5.0,67.3,12,Yes,3
+EDU00267,2025-06-27,48,Male,Tamil Nadu,Master's,Student,Web Development,Social Media,7.5,69.2,8,Yes,4
+EDU00268,2025-04-02,25,Male,Delhi NCR,Master's,Student,SQL for Analytics,Organic Search,5.8,61.9,7,Yes,4
+EDU00269,2025-09-26,32,Male,Other,High School,Student,Data Science Foundations,Organic Search,2.2,47.4,11,Yes,3
+EDU00270,2025-07-11,38,Male,Karnataka,Diploma,Seeking work,SQL for Analytics,Email Campaign,6.9,37.9,8,Yes,4
+EDU00271,2025-01-01,31,Female,Tamil Nadu,Bachelor's,Self-employed,Python for Data Analysis,Paid Ads,3.8,38.4,10,No,4
+EDU00272,2025-05-26,41,Male,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Social Media,0.5,31.6,11,No,5
+EDU00273,2025-05-29,48,Male,Tamil Nadu,Master's,Employed Full-time,Web Development,Email Campaign,6.7,52.8,9,Yes,4
+EDU00274,2025-11-20,37,Non-binary,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,2.4,41.3,10,Yes,2
+EDU00275,2025-06-05,34,Female,Delhi NCR,High School,Student,Business Intelligence,Email Campaign,8.4,71.6,7,Yes,4
+EDU00276,2025-07-27,54,Male,Maharashtra,Diploma,Student,Business Intelligence,Email Campaign,7.0,75.1,6,Yes,4
+EDU00277,2025-01-31,55,Female,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Referral,4.0,33.2,11,No,4
+EDU00278,2025-05-24,55,Male,Karnataka,Bachelor's,Student,Business Intelligence,Paid Ads,5.5,56.9,11,Yes,3
+EDU00279,2025-04-14,17,Male,West Bengal,High School,Employed Full-time,Business Intelligence,Social Media,9.8,82.7,7,Yes,4
+EDU00280,2025-07-01,49,Male,Maharashtra,Diploma,Employed Full-time,SQL for Analytics,Email Campaign,6.7,50.7,7,Yes,3
+EDU00281,2025-11-24,52,Female,Tamil Nadu,Master's,Employed Part-time,Data Science Foundations,Social Media,5.0,52.7,14,Yes,3
+EDU00282,2025-12-07,48,Female,Tamil Nadu,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,10.9,84.2,12,Yes,4
+EDU00283,2025-04-15,46,Male,Maharashtra,Diploma,Employed Full-time,Machine Learning Basics,Email Campaign,4.8,54.3,11,Yes,3
+EDU00284,2025-08-12,31,Male,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Paid Ads,5.8,66.3,15,Yes,3
+EDU00285,2025-12-15,45,Male,Karnataka,Other,Employed Full-time,Data Science Foundations,Paid Ads,2.4,45.7,14,Yes,4
+EDU00286,2025-03-25,39,Female,Tamil Nadu,Bachelor's,Employed Full-time,Web Development,Paid Ads,0.8,34.5,17,No,4
+EDU00287,2025-06-09,49,Male,Other,Bachelor's,Student,Business Intelligence,Email Campaign,3.9,36.5,11,Yes,2
+EDU00288,2025-07-02,30,Male,Maharashtra,High School,Employed Part-time,Business Intelligence,Referral,4.6,56.4,9,No,4
+EDU00289,2025-01-02,45,Female,Uttar Pradesh,Diploma,Employed Full-time,Web Development,Paid Ads,5.2,57.0,14,Yes,3
+EDU00290,2025-06-19,47,Female,Uttar Pradesh,Master's,Student,Python for Data Analysis,Organic Search,1.4,28.7,12,Yes,4
+EDU00291,2025-02-14,49,Male,Uttar Pradesh,Master's,Student,Data Science Foundations,Organic Search,6.0,66.0,16,Yes,5
+EDU00292,2025-04-24,23,Female,Delhi NCR,Bachelor's,Employed Part-time,Machine Learning Basics,Social Media,2.7,61.0,17,No,4
+EDU00293,2025-02-12,50,Male,Other,Master's,Employed Part-time,SQL for Analytics,Referral,5.8,50.3,7,Yes,3
+EDU00294,2025-09-26,25,Male,Delhi NCR,Bachelor's,Employed Part-time,Python for Data Analysis,Email Campaign,6.6,52.7,8,Yes,3
+EDU00295,2025-11-01,53,Male,West Bengal,Master's,Employed Full-time,Business Intelligence,Email Campaign,3.6,40.2,9,Yes,3
+EDU00296,2025-04-08,18,Female,Karnataka,High School,Employed Full-time,Python for Data Analysis,Organic Search,2.4,24.5,13,No,3
+EDU00297,2025-01-15,25,Prefer not to say,West Bengal,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,7.9,90.7,10,Yes,5
+EDU00298,2025-06-29,40,Male,Other,Master's,Student,SQL for Analytics,Referral,6.4,55.2,7,Yes,4
+EDU00299,2025-02-11,38,Male,Other,Master's,Employed Full-time,Machine Learning Basics,Paid Ads,4.8,43.9,20,Yes,4
+EDU00300,2025-06-10,43,Male,Karnataka,Master's,Employed Full-time,Data Science Foundations,Social Media,7.7,52.3,8,Yes,4
+EDU00301,2025-07-18,32,Male,West Bengal,Bachelor's,Self-employed,Python for Data Analysis,Referral,4.7,49.1,13,Yes,3
+EDU00302,2025-06-20,17,Male,Maharashtra,Master's,Employed Full-time,Web Development,Email Campaign,3.1,39.1,12,No,3
+EDU00303,2025-07-10,41,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Web Development,Referral,2.3,61.5,11,Yes,4
+EDU00304,2025-07-26,36,Male,Karnataka,Diploma,Seeking work,SQL for Analytics,Organic Search,4.3,37.2,8,No,2
+EDU00305,2025-03-01,36,Female,Uttar Pradesh,Bachelor's,Seeking work,Python for Data Analysis,Organic Search,6.2,41.3,10,Yes,4
+EDU00306,2025-09-07,31,Female,Delhi NCR,Bachelor's,Student,Machine Learning Basics,Organic Search,7.6,72.0,13,No,5
+EDU00307,2025-09-01,51,Male,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Referral,4.6,52.1,15,No,4
+EDU00308,2025-02-22,47,Female,Maharashtra,Master's,Student,Python for Data Analysis,Referral,7.2,61.1,10,No,4
+EDU00309,2025-06-08,24,Male,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Referral,4.0,57.7,15,Yes,2
+EDU00310,2025-04-16,18,Non-binary,Delhi NCR,Diploma,Student,Python for Data Analysis,Email Campaign,2.8,47.8,14,Yes,4
+EDU00311,2025-05-26,24,Female,West Bengal,Diploma,Employed Full-time,Data Science Foundations,Organic Search,1.6,40.8,8,Yes,2
+EDU00312,2025-10-10,18,Female,Uttar Pradesh,Master's,Seeking work,Data Science Foundations,Organic Search,3.4,31.7,16,No,3
+EDU00313,2025-08-06,44,Male,West Bengal,High School,Student,Business Intelligence,Email Campaign,1.7,21.8,10,Yes,3
+EDU00314,2025-11-28,41,Female,West Bengal,Master's,Self-employed,SQL for Analytics,Email Campaign,8.9,62.2,10,Yes,4
+EDU00315,2025-07-27,35,Male,Karnataka,High School,Employed Full-time,SQL for Analytics,Email Campaign,5.5,44.0,10,Yes,3
+EDU00316,2025-01-17,40,Male,Delhi NCR,Bachelor's,Student,Python for Data Analysis,Email Campaign,4.3,55.4,13,No,3
+EDU00317,2025-09-17,48,Male,Delhi NCR,Master's,Seeking work,Web Development,Paid Ads,8.3,46.6,17,Yes,4
+EDU00318,2025-01-27,49,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,1.6,36.0,10,Yes,4
+EDU00319,2025-05-05,33,Male,Tamil Nadu,Master's,Seeking work,Data Science Foundations,Referral,4.2,49.7,9,Yes,3
+EDU00320,2025-12-07,40,Female,Uttar Pradesh,High School,Self-employed,Machine Learning Basics,Social Media,8.9,70.1,19,Yes,4
+EDU00321,2025-12-28,39,Female,Tamil Nadu,Bachelor's,Student,Machine Learning Basics,Organic Search,4.2,56.6,14,Yes,3
+EDU00322,2025-02-23,54,Female,Uttar Pradesh,Bachelor's,Student,Business Intelligence,Referral,9.9,70.7,9,Yes,5
+EDU00323,2025-12-26,46,Male,Maharashtra,Master's,Employed Full-time,SQL for Analytics,Social Media,6.2,51.8,8,No,3
+EDU00324,2025-12-24,29,Female,Uttar Pradesh,High School,Employed Full-time,Data Science Foundations,Organic Search,7.4,79.5,11,Yes,4
+EDU00325,2025-11-17,51,Female,Maharashtra,Bachelor's,Student,Data Science Foundations,Organic Search,7.4,60.8,16,Yes,4
+EDU00326,2025-10-30,32,Female,Other,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,4.5,70.0,6,Yes,5
+EDU00327,2025-01-28,46,Female,Karnataka,Other,Self-employed,Data Science Foundations,Organic Search,3.4,44.7,10,No,4
+EDU00328,2025-02-14,55,Female,Delhi NCR,Master's,Student,Data Science Foundations,Email Campaign,4.2,51.6,14,Yes,3
+EDU00329,2025-08-13,48,Male,Delhi NCR,Master's,Employed Part-time,Python for Data Analysis,Paid Ads,2.3,42.5,15,Yes,4
+EDU00330,2025-02-07,21,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Email Campaign,4.4,55.4,15,Yes,5
+EDU00331,2025-04-02,25,Male,Karnataka,Bachelor's,Student,Python for Data Analysis,Organic Search,4.5,48.0,10,No,4
+EDU00332,2025-12-23,48,Female,Maharashtra,Master's,Student,Data Science Foundations,Paid Ads,8.2,69.0,16,Yes,4
+EDU00333,2025-11-29,21,Male,Tamil Nadu,Master's,Student,Web Development,Referral,5.8,76.6,13,Yes,4
+EDU00334,2025-04-04,17,Female,Other,Master's,Employed Full-time,Business Intelligence,Social Media,9.7,86.4,10,Yes,4
+EDU00335,2025-07-16,27,Male,Karnataka,Master's,Student,Machine Learning Basics,Referral,0.5,49.7,11,No,4
+EDU00336,2025-07-16,35,Non-binary,Delhi NCR,Master's,Self-employed,Machine Learning Basics,Organic Search,1.8,26.1,15,No,2
+EDU00337,2025-04-06,22,Female,Other,High School,Self-employed,Python for Data Analysis,Email Campaign,3.7,35.6,13,No,3
+EDU00338,2025-03-28,22,Non-binary,Delhi NCR,Diploma,Student,Business Intelligence,Paid Ads,7.8,68.8,9,Yes,5
+EDU00339,2025-06-09,30,Female,West Bengal,Other,Seeking work,Data Science Foundations,Referral,4.3,61.4,9,Yes,4
+EDU00340,2025-08-08,40,Male,Delhi NCR,Bachelor's,Seeking work,Web Development,Paid Ads,1.3,34.0,13,Yes,3
+EDU00341,2025-10-21,38,Male,Delhi NCR,Diploma,Student,Data Science Foundations,Social Media,4.0,42.6,14,Yes,5
+EDU00342,2025-11-03,48,Female,Maharashtra,Bachelor's,Seeking work,Machine Learning Basics,Paid Ads,1.9,59.3,15,Yes,5
+EDU00343,2025-01-08,55,Female,Maharashtra,Bachelor's,Student,SQL for Analytics,Email Campaign,1.4,48.8,9,No,4
+EDU00344,2025-08-28,18,Female,Tamil Nadu,Master's,Employed Part-time,Python for Data Analysis,Organic Search,8.9,83.3,11,Yes,5
+EDU00345,2025-08-13,43,Male,West Bengal,Master's,Student,Data Science Foundations,Paid Ads,3.7,44.5,16,Yes,3
+EDU00346,2025-01-18,23,Female,Maharashtra,High School,Self-employed,Business Intelligence,Paid Ads,4.9,48.4,9,Yes,4
+EDU00347,2025-11-01,31,Male,Other,Bachelor's,Self-employed,Python for Data Analysis,Social Media,4.3,63.6,13,Yes,4
+EDU00348,2025-08-06,30,Female,Karnataka,High School,Seeking work,Web Development,Email Campaign,3.9,47.4,16,Yes,3
+EDU00349,2025-09-20,44,Male,Delhi NCR,Master's,Seeking work,Data Science Foundations,Organic Search,2.7,38.5,14,No,5
+EDU00350,2025-08-30,26,Female,Other,Diploma,Student,Machine Learning Basics,Organic Search,3.8,39.2,14,Yes,2
+EDU00351,2025-05-03,51,Male,Other,Bachelor's,Employed Part-time,Machine Learning Basics,Organic Search,5.2,49.7,18,Yes,4
+EDU00352,2025-03-15,31,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Referral,7.6,75.9,11,No,4
+EDU00353,2025-05-18,48,Female,Karnataka,Bachelor's,Student,Machine Learning Basics,Organic Search,6.6,43.3,11,No,4
+EDU00354,2025-10-06,54,Female,Maharashtra,Bachelor's,Student,Business Intelligence,Organic Search,1.8,49.7,9,No,4
+EDU00355,2025-08-21,36,Male,Karnataka,Bachelor's,Seeking work,Machine Learning Basics,Paid Ads,6.7,53.3,12,Yes,4
+EDU00356,2025-08-17,20,Female,West Bengal,Bachelor's,Employed Part-time,SQL for Analytics,Referral,5.5,54.5,10,Yes,4
+EDU00357,2025-02-17,44,Male,Karnataka,High School,Student,Machine Learning Basics,Paid Ads,3.1,45.6,18,No,4
+EDU00358,2025-01-04,33,Prefer not to say,Uttar Pradesh,Bachelor's,Seeking work,SQL for Analytics,Organic Search,4.9,52.0,11,Yes,4
+EDU00359,2025-09-01,30,Female,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Organic Search,5.8,54.8,14,Yes,4
+EDU00360,2025-12-13,34,Female,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,4.6,48.1,8,Yes,3
+EDU00361,2025-05-11,28,Female,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Social Media,5.6,50.5,17,Yes,5
+EDU00362,2025-06-12,27,Female,Delhi NCR,Bachelor's,Employed Part-time,Web Development,Social Media,2.6,61.2,16,Yes,4
+EDU00363,2025-12-16,55,Female,Tamil Nadu,Master's,Employed Part-time,Python for Data Analysis,Paid Ads,8.9,70.9,10,Yes,4
+EDU00364,2025-03-26,27,Male,Other,High School,Employed Full-time,SQL for Analytics,Social Media,0.5,35.5,6,No,3
+EDU00365,2025-07-10,34,Female,Other,Master's,Employed Full-time,Data Science Foundations,Social Media,5.8,50.5,14,Yes,3
+EDU00366,2025-02-01,44,Female,Uttar Pradesh,Diploma,Student,SQL for Analytics,Referral,5.3,51.3,9,Yes,4
+EDU00367,2025-04-07,25,Male,Maharashtra,Bachelor's,Employed Full-time,Business Intelligence,Organic Search,5.9,50.9,6,Yes,4
+EDU00368,2025-05-17,41,Female,Other,Bachelor's,Employed Full-time,Business Intelligence,Email Campaign,2.9,55.8,7,No,4
+EDU00369,2025-09-08,51,Male,Other,Bachelor's,Employed Full-time,Business Intelligence,Social Media,7.1,54.4,7,Yes,3
+EDU00370,2025-04-23,48,Male,Other,Diploma,Student,Business Intelligence,Organic Search,4.3,25.2,10,Yes,4
+EDU00371,2025-06-18,18,Female,Delhi NCR,Master's,Employed Part-time,Python for Data Analysis,Social Media,1.9,43.3,12,Yes,4
+EDU00372,2025-04-19,32,Male,Maharashtra,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,2.1,40.0,8,No,3
+EDU00373,2025-02-21,17,Male,Uttar Pradesh,Other,Employed Full-time,Data Science Foundations,Referral,4.8,47.2,15,No,4
+EDU00374,2025-10-17,40,Male,Karnataka,Bachelor's,Student,Web Development,Paid Ads,1.0,49.9,11,No,4
+EDU00375,2025-09-03,29,Male,Karnataka,Bachelor's,Seeking work,Business Intelligence,Email Campaign,8.5,36.2,10,No,2
+EDU00376,2025-08-24,51,Male,Delhi NCR,Master's,Student,Python for Data Analysis,Social Media,6.8,81.1,11,Yes,5
+EDU00377,2025-08-01,23,Male,Tamil Nadu,Diploma,Employed Full-time,Data Science Foundations,Paid Ads,8.5,81.7,12,Yes,5
+EDU00378,2025-02-18,50,Male,Karnataka,Bachelor's,Student,SQL for Analytics,Email Campaign,8.3,60.7,9,Yes,3
+EDU00379,2025-07-08,30,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Web Development,Organic Search,3.7,44.4,14,Yes,3
+EDU00380,2025-09-16,52,Male,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Organic Search,2.6,51.5,17,No,4
+EDU00381,2025-06-30,24,Male,Delhi NCR,High School,Employed Full-time,SQL for Analytics,Organic Search,0.5,43.4,7,No,4
+EDU00382,2025-09-22,27,Female,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Organic Search,3.6,41.8,9,Yes,4
+EDU00383,2025-05-01,30,Male,Other,Bachelor's,Employed Part-time,Machine Learning Basics,Referral,8.4,49.2,16,Yes,4
+EDU00384,2025-07-07,55,Female,Delhi NCR,Bachelor's,Employed Full-time,Machine Learning Basics,Social Media,2.7,71.2,17,Yes,3
+EDU00385,2025-05-19,45,Female,Delhi NCR,Diploma,Employed Full-time,Data Science Foundations,Paid Ads,4.0,62.5,10,Yes,4
+EDU00386,2025-12-30,48,Female,Delhi NCR,Bachelor's,Seeking work,Business Intelligence,Social Media,3.3,50.1,11,Yes,3
+EDU00387,2025-03-07,38,Female,Karnataka,Master's,Seeking work,Python for Data Analysis,Organic Search,5.3,58.3,15,Yes,4
+EDU00388,2025-04-14,47,Male,Uttar Pradesh,Diploma,Employed Part-time,Business Intelligence,Paid Ads,7.3,71.7,8,Yes,5
+EDU00389,2025-09-06,41,Female,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Referral,1.1,48.3,12,Yes,4
+EDU00390,2025-01-22,43,Male,Other,Other,Seeking work,Machine Learning Basics,Organic Search,1.5,16.0,11,Yes,4
+EDU00391,2025-07-07,49,Male,Maharashtra,Master's,Seeking work,Data Science Foundations,Organic Search,7.8,62.0,13,Yes,5
+EDU00392,2025-01-11,55,Female,Other,High School,Student,Machine Learning Basics,Email Campaign,6.1,53.9,18,Yes,4
+EDU00393,2025-07-12,39,Female,Tamil Nadu,Bachelor's,Seeking work,Data Science Foundations,Referral,3.9,48.7,16,Yes,4
+EDU00394,2025-04-28,34,Male,Maharashtra,High School,Employed Part-time,SQL for Analytics,Referral,8.3,77.4,9,Yes,4
+EDU00395,2025-03-11,42,Male,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Paid Ads,1.5,19.5,9,No,3
+EDU00396,2025-07-01,45,Female,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Email Campaign,6.5,44.8,10,No,2
+EDU00397,2025-05-01,55,Female,Other,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,4.3,44.0,6,Yes,4
+EDU00398,2025-01-29,44,Female,Uttar Pradesh,Diploma,Self-employed,SQL for Analytics,Email Campaign,5.8,60.1,11,Yes,3
+EDU00399,2025-07-14,54,Female,Delhi NCR,Bachelor's,Employed Part-time,SQL for Analytics,Email Campaign,0.5,47.0,10,Yes,4
+EDU00400,2025-07-26,45,Female,Delhi NCR,High School,Student,Machine Learning Basics,Organic Search,3.9,70.2,20,Yes,4
+EDU00401,2025-08-30,54,Prefer not to say,Other,Master's,Employed Full-time,SQL for Analytics,Referral,6.1,56.0,11,Yes,4
+EDU00402,2025-11-25,46,Female,Uttar Pradesh,Bachelor's,Student,Web Development,Social Media,4.4,62.6,9,Yes,4
+EDU00403,2025-09-14,51,Female,Delhi NCR,Bachelor's,Employed Full-time,SQL for Analytics,Referral,7.3,72.7,10,Yes,5
+EDU00404,2025-10-18,24,Male,Delhi NCR,Master's,Employed Full-time,Web Development,Social Media,7.2,70.3,14,Yes,5
+EDU00405,2025-08-25,55,Male,Karnataka,Diploma,Employed Full-time,Web Development,Referral,2.4,44.3,10,Yes,3
+EDU00406,2025-09-03,30,Female,Uttar Pradesh,Diploma,Student,SQL for Analytics,Social Media,6.3,55.4,8,Yes,3
+EDU00407,2025-10-17,48,Male,Tamil Nadu,Bachelor's,Student,Data Science Foundations,Referral,2.3,31.4,14,No,4
+EDU00408,2025-08-30,32,Male,West Bengal,Master's,Student,Machine Learning Basics,Social Media,4.6,39.8,21,Yes,3
+EDU00409,2025-07-03,34,Female,Tamil Nadu,High School,Employed Full-time,Business Intelligence,Paid Ads,5.9,62.8,6,Yes,3
+EDU00410,2025-09-24,46,Female,Tamil Nadu,Master's,Seeking work,Python for Data Analysis,Social Media,2.7,45.1,16,No,4
+EDU00411,2025-12-19,38,Male,Delhi NCR,Bachelor's,Self-employed,Data Science Foundations,Email Campaign,6.2,54.8,16,No,5
+EDU00412,2025-06-30,44,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Python for Data Analysis,Referral,3.4,56.6,16,Yes,3
+EDU00413,2025-03-24,20,Prefer not to say,Delhi NCR,Bachelor's,Employed Full-time,Business Intelligence,Social Media,3.2,45.4,6,Yes,4
+EDU00414,2025-05-27,49,Female,Other,High School,Student,Machine Learning Basics,Email Campaign,6.1,48.4,13,Yes,3
+EDU00415,2025-01-06,32,Non-binary,Karnataka,Diploma,Seeking work,Python for Data Analysis,Paid Ads,2.7,42.6,14,Yes,4
+EDU00416,2025-04-22,47,Female,Uttar Pradesh,Master's,Employed Full-time,SQL for Analytics,Email Campaign,2.5,54.8,7,No,4
+EDU00417,2025-11-20,28,Male,Other,Bachelor's,Student,Business Intelligence,Paid Ads,6.8,49.9,6,Yes,3
+EDU00418,2025-02-06,40,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Web Development,Social Media,4.7,56.3,15,No,3
+EDU00419,2025-11-21,39,Female,Karnataka,Other,Employed Part-time,Python for Data Analysis,Paid Ads,1.3,39.5,8,No,2
+EDU00420,2025-07-25,22,Female,Uttar Pradesh,High School,Employed Full-time,Data Science Foundations,Paid Ads,6.4,51.5,12,Yes,4
+EDU00421,2025-04-27,35,Male,Maharashtra,Bachelor's,Student,Data Science Foundations,Email Campaign,3.6,45.9,17,No,3
+EDU00422,2025-06-22,41,Male,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,1.4,21.7,16,No,3
+EDU00423,2025-11-17,49,Female,West Bengal,High School,Student,Python for Data Analysis,Email Campaign,0.5,38.3,16,Yes,4
+EDU00424,2025-02-13,51,Male,West Bengal,Other,Employed Full-time,Python for Data Analysis,Referral,6.5,44.6,12,No,3
+EDU00425,2025-07-26,31,Female,Maharashtra,Other,Self-employed,Business Intelligence,Referral,2.6,58.3,8,Yes,4
+EDU00426,2025-04-08,42,Female,Other,Bachelor's,Seeking work,SQL for Analytics,Social Media,1.8,41.1,6,Yes,4
+EDU00427,2025-07-17,23,Female,Delhi NCR,Other,Employed Full-time,Python for Data Analysis,Email Campaign,5.9,51.7,11,Yes,3
+EDU00428,2025-10-15,51,Male,Other,High School,Student,Data Science Foundations,Social Media,6.3,74.1,11,Yes,4
+EDU00429,2025-12-03,50,Female,West Bengal,Other,Employed Full-time,Python for Data Analysis,Email Campaign,2.8,33.8,16,Yes,3
+EDU00430,2025-04-04,55,Male,Other,Master's,Student,Data Science Foundations,Referral,6.5,52.0,16,Yes,5
+EDU00431,2025-08-31,35,Female,West Bengal,Diploma,Seeking work,SQL for Analytics,Social Media,9.0,49.0,6,Yes,5
+EDU00432,2025-06-05,31,Male,Other,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,7.5,80.7,9,Yes,4
+EDU00433,2025-07-03,46,Male,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Organic Search,7.1,85.9,14,Yes,4
+EDU00434,2025-02-28,45,Female,Maharashtra,Bachelor's,Self-employed,Web Development,Referral,5.2,35.7,12,No,4
+EDU00435,2025-11-09,25,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Social Media,3.5,39.2,11,Yes,2
+EDU00436,2025-03-03,38,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,4.4,53.4,10,Yes,4
+EDU00437,2025-01-15,42,Female,Maharashtra,High School,Seeking work,Machine Learning Basics,Social Media,5.5,50.8,13,Yes,4
+EDU00438,2025-10-04,34,Male,Other,High School,Student,Python for Data Analysis,Social Media,1.7,41.4,13,No,4
+EDU00439,2025-05-29,31,Male,Maharashtra,Diploma,Employed Full-time,Business Intelligence,Organic Search,2.8,44.8,6,No,4
+EDU00440,2025-01-25,26,Female,Other,Master's,Seeking work,Web Development,Social Media,1.4,45.5,15,No,3
+EDU00441,2025-09-06,33,Male,Delhi NCR,Bachelor's,Employed Full-time,Machine Learning Basics,Email Campaign,5.0,43.5,14,Yes,4
+EDU00442,2025-04-15,26,Female,West Bengal,Bachelor's,Employed Full-time,Machine Learning Basics,Email Campaign,4.7,56.1,16,Yes,3
+EDU00443,2025-12-23,28,Female,Other,Diploma,Student,Data Science Foundations,Paid Ads,3.1,34.0,13,No,3
+EDU00444,2025-12-25,24,Female,Delhi NCR,Diploma,Employed Full-time,Data Science Foundations,Organic Search,6.3,55.3,10,Yes,4
+EDU00445,2025-07-20,31,Female,Uttar Pradesh,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,2.2,23.0,11,No,3
+EDU00446,2025-06-23,41,Male,Maharashtra,High School,Employed Full-time,Python for Data Analysis,Organic Search,3.0,42.1,14,Yes,4
+EDU00447,2025-06-12,31,Female,West Bengal,Bachelor's,Student,Machine Learning Basics,Referral,6.2,52.9,21,Yes,4
+EDU00448,2025-08-10,22,Male,West Bengal,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,6.5,72.3,8,Yes,5
+EDU00449,2025-11-28,48,Female,Karnataka,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,2.7,45.1,12,Yes,4
+EDU00450,2025-08-22,33,Male,Maharashtra,Bachelor's,Seeking work,Machine Learning Basics,Referral,5.0,56.5,13,Yes,4
+EDU00451,2025-02-06,39,Female,Delhi NCR,Master's,Employed Part-time,Business Intelligence,Social Media,2.8,45.9,9,No,3
+EDU00452,2025-03-13,37,Female,Maharashtra,High School,Employed Part-time,Machine Learning Basics,Referral,4.1,25.9,18,Yes,4
+EDU00453,2025-08-18,36,Female,West Bengal,Master's,Self-employed,SQL for Analytics,Referral,4.8,30.2,8,No,4
+EDU00454,2025-05-15,34,Female,Karnataka,Diploma,Student,Business Intelligence,Paid Ads,5.7,54.0,6,No,4
+EDU00455,2025-06-24,46,Female,Other,High School,Employed Full-time,Python for Data Analysis,Social Media,5.2,59.1,10,Yes,4
+EDU00456,2025-05-27,50,Female,Other,Bachelor's,Student,Machine Learning Basics,Social Media,5.1,52.6,11,No,4
+EDU00457,2025-08-06,52,Male,Other,Diploma,Employed Full-time,SQL for Analytics,Referral,2.1,33.0,7,Yes,4
+EDU00458,2025-03-26,34,Female,Tamil Nadu,Bachelor's,Seeking work,Python for Data Analysis,Organic Search,5.4,53.7,13,No,4
+EDU00459,2025-01-27,30,Male,Karnataka,Master's,Employed Full-time,Web Development,Organic Search,5.7,53.9,17,No,5
+EDU00460,2025-03-27,20,Male,West Bengal,Master's,Self-employed,SQL for Analytics,Social Media,6.0,68.3,7,Yes,4
+EDU00461,2025-09-01,34,Male,Uttar Pradesh,Bachelor's,Student,Data Science Foundations,Organic Search,2.9,55.3,8,Yes,5
+EDU00462,2025-08-10,55,Male,Other,Other,Employed Full-time,Python for Data Analysis,Organic Search,6.5,54.4,11,Yes,4
+EDU00463,2025-10-23,27,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Email Campaign,1.6,40.8,9,Yes,3
+EDU00464,2025-02-09,49,Male,Maharashtra,High School,Student,Business Intelligence,Email Campaign,3.6,52.7,10,Yes,3
+EDU00465,2025-02-21,46,Male,Other,Master's,Employed Full-time,Python for Data Analysis,Organic Search,3.9,55.7,8,Yes,4
+EDU00466,2025-02-17,42,Male,West Bengal,Diploma,Employed Part-time,SQL for Analytics,Referral,1.7,61.6,11,Yes,5
+EDU00467,2025-07-25,39,Female,Maharashtra,Diploma,Employed Full-time,Python for Data Analysis,Paid Ads,3.9,50.3,16,Yes,3
+EDU00468,2025-07-29,46,Male,Uttar Pradesh,High School,Self-employed,Machine Learning Basics,Social Media,5.0,69.0,16,No,4
+EDU00469,2025-02-28,20,Female,Maharashtra,Bachelor's,Seeking work,SQL for Analytics,Email Campaign,0.5,23.1,11,No,3
+EDU00470,2025-06-14,21,Male,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,3.6,41.7,14,No,4
+EDU00471,2025-01-19,24,Female,Karnataka,Diploma,Seeking work,SQL for Analytics,Paid Ads,0.7,12.2,11,No,2
+EDU00472,2025-08-12,46,Female,Karnataka,Bachelor's,Student,Web Development,Organic Search,9.0,72.8,11,Yes,4
+EDU00473,2025-07-28,33,Male,Karnataka,Master's,Student,Data Science Foundations,Social Media,5.0,62.8,17,Yes,4
+EDU00474,2025-01-10,25,Male,Karnataka,Master's,Employed Full-time,Python for Data Analysis,Paid Ads,4.8,23.5,10,Yes,3
+EDU00475,2025-02-02,18,Female,Delhi NCR,High School,Employed Full-time,Web Development,Email Campaign,5.0,57.3,11,Yes,2
+EDU00476,2025-09-15,36,Male,Karnataka,High School,Employed Full-time,Python for Data Analysis,Organic Search,5.8,65.5,16,Yes,5
+EDU00477,2025-11-25,32,Male,Delhi NCR,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,6.7,68.4,8,Yes,5
+EDU00478,2025-11-07,23,Male,Tamil Nadu,High School,Seeking work,SQL for Analytics,Paid Ads,1.1,25.0,7,No,4
+EDU00479,2025-07-26,17,Male,Uttar Pradesh,Bachelor's,Student,Data Science Foundations,Referral,7.4,73.9,9,Yes,5
+EDU00480,2025-07-11,46,Female,Uttar Pradesh,Bachelor's,Self-employed,Python for Data Analysis,Organic Search,7.2,63.9,9,Yes,4
+EDU00481,2025-10-23,47,Female,Karnataka,Master's,Employed Full-time,Python for Data Analysis,Organic Search,4.4,59.7,11,Yes,4
+EDU00482,2025-11-03,26,Male,Maharashtra,Diploma,Employed Full-time,Python for Data Analysis,Paid Ads,4.2,50.3,12,No,3
+EDU00483,2025-11-27,36,Female,West Bengal,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,0.5,41.6,9,Yes,4
+EDU00484,2025-05-26,26,Male,Other,Bachelor's,Employed Full-time,Business Intelligence,Social Media,1.8,55.5,10,Yes,3
+EDU00485,2025-06-23,32,Male,Other,Master's,Employed Full-time,Python for Data Analysis,Organic Search,5.6,55.0,8,Yes,3
+EDU00486,2025-01-29,21,Non-binary,Other,Bachelor's,Self-employed,Machine Learning Basics,Organic Search,7.1,66.8,21,No,4
+EDU00487,2025-03-05,53,Female,Tamil Nadu,Master's,Employed Full-time,SQL for Analytics,Referral,6.1,74.4,9,Yes,5
+EDU00488,2025-05-18,45,Male,Other,Master's,Student,Python for Data Analysis,Social Media,4.3,50.6,15,Yes,3
+EDU00489,2025-10-23,52,Male,Delhi NCR,Diploma,Employed Part-time,SQL for Analytics,Organic Search,8.7,56.3,10,Yes,3
+EDU00490,2025-06-12,28,Female,West Bengal,Bachelor's,Employed Part-time,Data Science Foundations,Organic Search,6.7,69.9,16,Yes,4
+EDU00491,2025-08-03,51,Female,Other,Bachelor's,Seeking work,Machine Learning Basics,Organic Search,3.6,66.6,12,Yes,4
+EDU00492,2025-11-12,37,Female,West Bengal,Diploma,Employed Full-time,Data Science Foundations,Organic Search,9.3,87.7,13,Yes,5
+EDU00493,2025-06-23,24,Female,Delhi NCR,Bachelor's,Employed Part-time,Machine Learning Basics,Organic Search,2.1,52.0,21,No,4
+EDU00494,2025-05-03,29,Non-binary,Karnataka,Bachelor's,Employed Full-time,Web Development,Email Campaign,1.3,12.1,14,No,3
+EDU00495,2025-09-24,48,Male,Karnataka,Master's,Employed Part-time,Data Science Foundations,Organic Search,3.6,41.8,9,Yes,3
+EDU00496,2025-04-26,47,Female,Karnataka,High School,Employed Full-time,Web Development,Social Media,2.8,39.2,14,Yes,4
+EDU00497,2025-05-22,45,Male,West Bengal,Bachelor's,Student,Python for Data Analysis,Referral,3.7,50.3,15,Yes,4
+EDU00498,2025-11-21,25,Female,Uttar Pradesh,Diploma,Seeking work,Python for Data Analysis,Email Campaign,6.3,80.5,10,Yes,4
+EDU00499,2025-06-09,42,Female,Karnataka,Bachelor's,Employed Part-time,Python for Data Analysis,Email Campaign,4.4,39.6,14,Yes,3
+EDU00500,2025-04-02,53,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,4.5,79.9,11,Yes,5
+EDU00501,2025-11-01,18,Male,Karnataka,Bachelor's,Employed Full-time,Machine Learning Basics,Social Media,4.6,48.8,17,No,3
+EDU00502,2025-08-23,29,Male,Tamil Nadu,Bachelor's,Employed Part-time,Web Development,Organic Search,0.5,27.8,10,No,2
+EDU00503,2025-10-08,20,Male,Karnataka,Bachelor's,Student,Machine Learning Basics,Organic Search,1.2,49.9,17,No,4
+EDU00504,2025-04-30,21,Male,Delhi NCR,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,3.7,60.9,9,Yes,4
+EDU00505,2025-10-13,55,Female,Uttar Pradesh,Master's,Student,Web Development,Paid Ads,2.6,53.2,12,Yes,2
+EDU00506,2025-12-14,26,Male,Uttar Pradesh,High School,Student,Web Development,Referral,4.0,41.8,14,Yes,4
+EDU00507,2025-03-01,23,Female,Uttar Pradesh,Master's,Student,Business Intelligence,Email Campaign,7.6,71.4,8,Yes,5
+EDU00508,2025-03-11,19,Female,Delhi NCR,Bachelor's,Employed Part-time,SQL for Analytics,Paid Ads,4.3,39.8,11,Yes,3
+EDU00509,2025-07-25,55,Male,Uttar Pradesh,Master's,Student,Business Intelligence,Paid Ads,1.6,31.8,10,Yes,3
+EDU00510,2025-09-22,35,Female,Maharashtra,Diploma,Self-employed,Python for Data Analysis,Social Media,2.8,45.1,15,No,3
+EDU00511,2025-01-01,47,Female,Delhi NCR,Bachelor's,Seeking work,Web Development,Paid Ads,8.3,58.4,13,Yes,5
+EDU00512,2025-07-20,26,Female,Tamil Nadu,High School,Student,Web Development,Social Media,7.9,79.2,10,Yes,5
+EDU00513,2025-02-16,41,Female,Uttar Pradesh,Master's,Employed Part-time,Machine Learning Basics,Organic Search,5.8,51.3,19,Yes,3
+EDU00514,2025-12-24,51,Male,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,1.1,36.8,9,Yes,4
+EDU00515,2025-09-23,43,Female,Karnataka,Bachelor's,Seeking work,Python for Data Analysis,Paid Ads,5.2,45.2,13,No,5
+EDU00516,2025-12-29,37,Male,West Bengal,Bachelor's,Employed Full-time,Web Development,Email Campaign,5.3,68.7,8,Yes,4
+EDU00517,2025-03-21,25,Prefer not to say,Karnataka,Diploma,Employed Full-time,Web Development,Social Media,4.6,45.4,13,No,4
+EDU00518,2025-10-17,26,Male,Tamil Nadu,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,3.2,61.5,10,Yes,4
+EDU00519,2025-05-20,40,Female,West Bengal,Master's,Seeking work,Web Development,Social Media,3.7,62.6,12,Yes,3
+EDU00520,2025-02-07,34,Male,Uttar Pradesh,High School,Student,SQL for Analytics,Email Campaign,3.1,42.0,8,Yes,5
+EDU00521,2025-06-25,18,Female,Other,Other,Self-employed,Web Development,Social Media,2.0,43.4,9,No,3
+EDU00522,2025-06-21,24,Female,West Bengal,Master's,Student,Python for Data Analysis,Organic Search,7.5,59.3,11,Yes,3
+EDU00523,2025-07-02,33,Male,Karnataka,Other,Employed Part-time,Python for Data Analysis,Social Media,6.4,67.1,12,Yes,4
+EDU00524,2025-11-08,23,Female,Other,Master's,Employed Full-time,SQL for Analytics,Paid Ads,3.9,48.3,11,Yes,4
+EDU00525,2025-04-12,38,Male,Other,Diploma,Student,Data Science Foundations,Paid Ads,5.3,51.2,16,Yes,3
+EDU00526,2025-08-22,28,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Social Media,5.4,57.2,11,Yes,4
+EDU00527,2025-03-14,28,Male,Maharashtra,High School,Employed Full-time,Business Intelligence,Organic Search,9.7,54.8,6,Yes,4
+EDU00528,2025-11-17,21,Male,Karnataka,Master's,Self-employed,Python for Data Analysis,Organic Search,6.4,59.7,11,Yes,3
+EDU00529,2025-06-17,36,Prefer not to say,West Bengal,High School,Employed Part-time,Business Intelligence,Email Campaign,6.3,68.0,8,Yes,4
+EDU00530,2025-10-19,24,Female,Other,Master's,Student,Python for Data Analysis,Referral,4.6,55.1,14,Yes,4
+EDU00531,2025-04-09,41,Female,West Bengal,Diploma,Employed Full-time,Business Intelligence,Referral,3.5,60.4,10,Yes,4
+EDU00532,2025-04-25,53,Male,Delhi NCR,High School,Student,Python for Data Analysis,Organic Search,7.5,60.5,15,Yes,3
+EDU00533,2025-12-25,52,Male,Maharashtra,High School,Employed Part-time,Business Intelligence,Organic Search,5.9,53.1,8,Yes,4
+EDU00534,2025-03-13,43,Female,Delhi NCR,Bachelor's,Self-employed,Machine Learning Basics,Paid Ads,2.7,32.4,17,Yes,3
+EDU00535,2025-07-24,48,Female,Karnataka,Diploma,Seeking work,Data Science Foundations,Referral,5.5,52.1,17,Yes,4
+EDU00536,2025-04-28,52,Male,Maharashtra,Diploma,Seeking work,Data Science Foundations,Organic Search,6.3,83.8,10,Yes,5
+EDU00537,2025-05-23,43,Male,Maharashtra,High School,Employed Full-time,Python for Data Analysis,Organic Search,0.5,40.3,15,Yes,3
+EDU00538,2025-09-12,27,Male,Maharashtra,Diploma,Student,Data Science Foundations,Organic Search,2.5,38.0,14,No,4
+EDU00539,2025-10-13,36,Male,Maharashtra,Other,Seeking work,Python for Data Analysis,Organic Search,5.3,44.1,9,Yes,3
+EDU00540,2025-06-25,50,Female,Uttar Pradesh,Bachelor's,Student,Python for Data Analysis,Organic Search,0.5,17.8,16,Yes,3
+EDU00541,2025-08-21,43,Female,Karnataka,Diploma,Student,Business Intelligence,Email Campaign,0.6,27.4,11,No,3
+EDU00542,2025-01-17,31,Male,Delhi NCR,Diploma,Employed Full-time,Python for Data Analysis,Social Media,3.9,59.7,15,Yes,5
+EDU00543,2025-03-27,23,Male,Tamil Nadu,High School,Self-employed,Data Science Foundations,Social Media,5.6,52.3,9,Yes,3
+EDU00544,2025-09-29,22,Female,Other,Bachelor's,Employed Part-time,Data Science Foundations,Referral,5.7,46.3,9,Yes,3
+EDU00545,2025-09-01,31,Male,Uttar Pradesh,High School,Seeking work,SQL for Analytics,Social Media,8.0,56.8,10,Yes,3
+EDU00546,2025-01-17,48,Female,Tamil Nadu,High School,Employed Full-time,SQL for Analytics,Social Media,4.7,61.6,6,Yes,3
+EDU00547,2025-11-22,38,Female,Uttar Pradesh,High School,Student,Machine Learning Basics,Paid Ads,3.7,48.8,12,Yes,3
+EDU00548,2025-05-30,19,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Machine Learning Basics,Organic Search,1.6,33.9,15,Yes,4
+EDU00549,2025-04-21,52,Female,Uttar Pradesh,Master's,Self-employed,SQL for Analytics,Email Campaign,3.7,46.1,6,Yes,4
+EDU00550,2025-06-18,32,Female,Delhi NCR,High School,Student,Data Science Foundations,Social Media,6.1,85.9,14,Yes,5
+EDU00551,2025-05-25,32,Male,Tamil Nadu,Bachelor's,Seeking work,Data Science Foundations,Organic Search,6.2,74.4,13,Yes,4
+EDU00552,2025-07-03,48,Female,Delhi NCR,Bachelor's,Employed Full-time,Machine Learning Basics,Organic Search,5.1,73.0,11,Yes,4
+EDU00553,2025-03-01,31,Female,Delhi NCR,Master's,Self-employed,Data Science Foundations,Email Campaign,5.7,36.8,13,No,3
+EDU00554,2025-02-20,41,Male,Karnataka,Diploma,Self-employed,Business Intelligence,Social Media,7.3,62.4,6,Yes,3
+EDU00555,2025-12-28,52,Female,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Email Campaign,4.7,46.1,11,Yes,3
+EDU00556,2025-09-30,37,Male,Delhi NCR,Master's,Employed Part-time,Machine Learning Basics,Organic Search,7.5,71.5,16,Yes,5
+EDU00557,2025-05-12,40,Female,Tamil Nadu,Other,Employed Full-time,SQL for Analytics,Referral,2.9,59.3,8,Yes,5
+EDU00558,2025-11-07,30,Female,Delhi NCR,Master's,Self-employed,Web Development,Organic Search,4.3,56.1,11,Yes,2
+EDU00559,2025-10-18,51,Male,Maharashtra,High School,Self-employed,SQL for Analytics,Organic Search,3.4,38.1,9,No,4
+EDU00560,2025-09-12,19,Female,Karnataka,Other,Employed Full-time,SQL for Analytics,Referral,6.2,51.9,8,Yes,4
+EDU00561,2025-09-21,27,Male,Karnataka,Master's,Student,Web Development,Organic Search,2.3,51.6,13,No,4
+EDU00562,2025-12-14,55,Male,Uttar Pradesh,Diploma,Seeking work,Machine Learning Basics,Social Media,3.8,58.8,15,Yes,3
+EDU00563,2025-11-01,35,Male,Karnataka,High School,Seeking work,SQL for Analytics,Referral,0.5,38.7,10,No,4
+EDU00564,2025-04-04,23,Female,Maharashtra,Master's,Employed Full-time,Data Science Foundations,Email Campaign,5.8,59.8,13,Yes,4
+EDU00565,2025-09-23,33,Female,Maharashtra,High School,Seeking work,Data Science Foundations,Email Campaign,7.2,64.4,9,Yes,5
+EDU00566,2025-02-28,26,Male,Delhi NCR,Master's,Employed Full-time,Business Intelligence,Organic Search,6.5,64.2,10,No,3
+EDU00567,2025-07-03,37,Female,Maharashtra,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,6.3,68.8,15,Yes,3
+EDU00568,2025-01-25,26,Male,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Social Media,6.3,67.8,9,Yes,4
+EDU00569,2025-03-03,32,Male,Tamil Nadu,High School,Student,Python for Data Analysis,Organic Search,6.0,59.3,13,Yes,3
+EDU00570,2025-09-21,52,Female,Other,Bachelor's,Employed Full-time,Web Development,Social Media,5.9,58.0,15,Yes,5
+EDU00571,2025-05-16,20,Female,Uttar Pradesh,Bachelor's,Employed Part-time,SQL for Analytics,Social Media,6.0,58.0,6,Yes,2
+EDU00572,2025-03-01,46,Male,Maharashtra,Master's,Student,SQL for Analytics,Social Media,3.1,38.0,11,No,3
+EDU00573,2025-12-24,20,Male,Karnataka,Diploma,Student,Web Development,Referral,4.1,41.9,12,Yes,3
+EDU00574,2025-12-09,34,Female,West Bengal,High School,Employed Part-time,Data Science Foundations,Organic Search,4.7,60.3,15,Yes,4
+EDU00575,2025-03-25,43,Male,Karnataka,Diploma,Self-employed,Business Intelligence,Social Media,3.8,41.6,11,No,4
+EDU00576,2025-08-07,54,Male,Other,High School,Seeking work,Business Intelligence,Social Media,1.1,49.2,11,Yes,4
+EDU00577,2025-04-18,26,Female,Delhi NCR,Other,Student,SQL for Analytics,Organic Search,1.8,41.6,9,No,4
+EDU00578,2025-10-21,19,Female,Maharashtra,High School,Self-employed,Business Intelligence,Email Campaign,5.0,64.8,10,Yes,4
+EDU00579,2025-09-09,46,Male,Karnataka,Diploma,Student,Web Development,Organic Search,6.5,68.6,10,Yes,4
+EDU00580,2025-06-08,51,Male,Other,Master's,Student,Python for Data Analysis,Organic Search,4.5,63.1,11,Yes,5
+EDU00581,2025-12-06,39,Non-binary,Other,Diploma,Employed Part-time,Python for Data Analysis,Paid Ads,10.6,71.7,16,Yes,5
+EDU00582,2025-09-26,19,Female,Other,Diploma,Employed Full-time,Business Intelligence,Social Media,2.5,49.9,8,Yes,3
+EDU00583,2025-02-25,36,Male,Karnataka,Bachelor's,Self-employed,SQL for Analytics,Organic Search,5.5,65.9,10,Yes,4
+EDU00584,2025-06-11,32,Male,Uttar Pradesh,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,7.3,45.6,6,No,3
+EDU00585,2025-10-30,34,Male,Maharashtra,Master's,Student,Data Science Foundations,Referral,6.8,82.6,10,Yes,5
+EDU00586,2025-07-16,19,Female,Karnataka,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,5.9,85.8,7,No,4
+EDU00587,2025-02-06,29,Female,Uttar Pradesh,Diploma,Student,Business Intelligence,Paid Ads,6.9,74.0,9,Yes,4
+EDU00588,2025-10-10,55,Male,Other,Bachelor's,Student,Web Development,Email Campaign,4.6,63.1,9,Yes,2
+EDU00589,2025-06-25,18,Female,Delhi NCR,Master's,Student,SQL for Analytics,Organic Search,8.2,74.9,8,Yes,4
+EDU00590,2025-03-28,52,Female,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Referral,7.3,60.3,17,Yes,5
+EDU00591,2025-10-25,37,Male,Maharashtra,Bachelor's,Self-employed,SQL for Analytics,Organic Search,2.6,44.1,10,Yes,3
+EDU00592,2025-11-19,39,Female,Delhi NCR,Bachelor's,Student,Machine Learning Basics,Referral,5.2,67.4,20,Yes,4
+EDU00593,2025-08-03,53,Male,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,1.1,27.7,12,No,3
+EDU00594,2025-09-19,25,Male,Other,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,7.8,53.5,8,Yes,3
+EDU00595,2025-03-29,55,Male,Maharashtra,High School,Employed Full-time,SQL for Analytics,Paid Ads,5.0,50.2,10,No,4
+EDU00596,2025-09-30,27,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Data Science Foundations,Referral,7.5,72.9,8,Yes,5
+EDU00597,2025-11-27,30,Male,Karnataka,High School,Employed Part-time,Data Science Foundations,Organic Search,4.3,41.8,12,Yes,4
+EDU00598,2025-03-28,34,Male,Delhi NCR,Bachelor's,Self-employed,Machine Learning Basics,Paid Ads,0.5,34.3,22,No,4
+EDU00599,2025-12-11,40,Male,Karnataka,Bachelor's,Student,Python for Data Analysis,Referral,10.3,74.9,9,Yes,5
+EDU00600,2025-02-02,29,Female,Delhi NCR,Bachelor's,Self-employed,Machine Learning Basics,Social Media,4.8,42.1,21,Yes,4
+EDU00601,2025-06-12,47,Female,Tamil Nadu,High School,Student,Data Science Foundations,Referral,2.3,14.9,10,Yes,2
+EDU00602,2025-01-27,17,Non-binary,Tamil Nadu,Master's,Employed Full-time,Data Science Foundations,Organic Search,7.0,50.7,10,Yes,3
+EDU00603,2025-06-13,42,Female,Other,Bachelor's,Employed Full-time,Machine Learning Basics,Organic Search,9.0,74.1,13,Yes,5
+EDU00604,2025-08-25,42,Male,Karnataka,Diploma,Student,Python for Data Analysis,Email Campaign,4.1,57.2,16,No,4
+EDU00605,2025-11-14,37,Female,Tamil Nadu,High School,Student,Web Development,Paid Ads,4.3,58.1,13,Yes,4
+EDU00606,2025-02-24,40,Female,Other,Bachelor's,Student,Web Development,Email Campaign,5.0,62.3,15,Yes,3
+EDU00607,2025-11-20,46,Male,Karnataka,Diploma,Student,SQL for Analytics,Paid Ads,2.1,35.9,8,Yes,3
+EDU00608,2025-12-31,52,Male,Other,Master's,Employed Full-time,SQL for Analytics,Paid Ads,3.0,36.9,11,No,4
+EDU00609,2025-01-25,25,Male,Other,Bachelor's,Student,Python for Data Analysis,Organic Search,8.4,73.1,13,No,4
+EDU00610,2025-12-17,35,Male,West Bengal,High School,Self-employed,Business Intelligence,Email Campaign,4.2,49.3,9,No,3
+EDU00611,2025-11-27,38,Male,Tamil Nadu,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,2.7,56.7,15,Yes,4
+EDU00612,2025-01-11,30,Prefer not to say,Uttar Pradesh,Diploma,Employed Full-time,Web Development,Social Media,3.5,53.6,15,Yes,5
+EDU00613,2025-01-24,54,Female,Delhi NCR,High School,Student,Web Development,Social Media,6.9,78.0,14,Yes,5
+EDU00614,2025-09-22,36,Female,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,0.5,31.4,9,No,4
+EDU00615,2025-06-03,40,Female,Other,Diploma,Seeking work,Machine Learning Basics,Paid Ads,5.1,68.2,21,Yes,4
+EDU00616,2025-04-06,24,Male,Karnataka,Master's,Employed Full-time,SQL for Analytics,Paid Ads,9.9,99.0,7,Yes,4
+EDU00617,2025-05-28,33,Female,West Bengal,Bachelor's,Student,SQL for Analytics,Social Media,9.0,71.6,11,Yes,4
+EDU00618,2025-05-05,41,Male,Delhi NCR,Diploma,Seeking work,Python for Data Analysis,Email Campaign,5.8,64.2,11,Yes,5
+EDU00619,2025-12-22,33,Female,Maharashtra,Other,Employed Full-time,Business Intelligence,Social Media,7.4,53.4,6,Yes,4
+EDU00620,2025-03-29,47,Male,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,7.4,75.3,11,Yes,5
+EDU00621,2025-02-02,22,Male,West Bengal,High School,Seeking work,Web Development,Referral,4.2,65.3,13,Yes,4
+EDU00622,2025-10-31,22,Male,Tamil Nadu,Bachelor's,Seeking work,SQL for Analytics,Paid Ads,6.5,55.1,8,Yes,4
+EDU00623,2025-11-03,30,Male,West Bengal,Other,Employed Full-time,Machine Learning Basics,Paid Ads,8.4,75.6,20,Yes,4
+EDU00624,2025-11-23,29,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Social Media,1.7,45.2,14,No,4
+EDU00625,2025-12-21,48,Male,Other,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,5.8,62.9,7,Yes,3
+EDU00626,2025-01-15,50,Female,Tamil Nadu,Bachelor's,Student,SQL for Analytics,Email Campaign,5.3,65.9,9,Yes,4
+EDU00627,2025-10-08,35,Male,West Bengal,Diploma,Employed Full-time,SQL for Analytics,Organic Search,4.7,60.0,10,Yes,4
+EDU00628,2025-04-09,36,Female,Karnataka,High School,Student,SQL for Analytics,Organic Search,4.5,51.3,11,Yes,4
+EDU00629,2025-06-03,28,Female,Delhi NCR,Bachelor's,Employed Full-time,Data Science Foundations,Email Campaign,5.0,65.0,12,Yes,5
+EDU00630,2025-06-13,37,Female,Other,Master's,Employed Part-time,Web Development,Organic Search,5.2,69.1,16,Yes,4
+EDU00631,2025-12-26,44,Male,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Organic Search,7.0,56.3,8,Yes,3
+EDU00632,2025-07-10,45,Male,Delhi NCR,High School,Self-employed,SQL for Analytics,Referral,5.5,57.0,10,Yes,3
+EDU00633,2025-03-23,54,Female,West Bengal,Bachelor's,Student,Business Intelligence,Organic Search,4.1,30.2,10,Yes,3
+EDU00634,2025-02-01,39,Female,Uttar Pradesh,High School,Student,Data Science Foundations,Social Media,2.7,52.8,12,No,4
+EDU00635,2025-08-03,30,Female,Other,Diploma,Employed Full-time,Web Development,Email Campaign,3.5,63.7,8,Yes,4
+EDU00636,2025-10-30,19,Prefer not to say,Uttar Pradesh,Bachelor's,Student,Data Science Foundations,Organic Search,5.1,52.3,14,Yes,3
+EDU00637,2025-09-17,43,Male,Other,Diploma,Student,Python for Data Analysis,Referral,2.9,48.2,11,Yes,4
+EDU00638,2025-12-07,48,Female,Delhi NCR,Master's,Employed Part-time,Machine Learning Basics,Organic Search,6.6,58.8,12,Yes,3
+EDU00639,2025-01-16,38,Male,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,5.4,52.0,6,Yes,4
+EDU00640,2025-05-28,52,Male,West Bengal,Bachelor's,Student,Web Development,Social Media,7.0,65.8,15,Yes,4
+EDU00641,2025-08-12,29,Male,Uttar Pradesh,Master's,Employed Full-time,SQL for Analytics,Email Campaign,3.1,38.0,7,No,4
+EDU00642,2025-11-09,19,Male,Maharashtra,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,2.7,43.0,12,No,4
+EDU00643,2025-04-25,41,Male,Karnataka,Master's,Employed Part-time,Data Science Foundations,Paid Ads,7.0,52.1,17,Yes,4
+EDU00644,2025-09-04,21,Male,Tamil Nadu,Master's,Student,Data Science Foundations,Referral,4.8,61.3,15,Yes,5
+EDU00645,2025-03-17,20,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Machine Learning Basics,Referral,4.1,54.3,17,Yes,4
+EDU00646,2025-08-04,44,Female,Tamil Nadu,Diploma,Seeking work,Data Science Foundations,Organic Search,6.0,53.8,13,Yes,3
+EDU00647,2025-10-10,33,Female,West Bengal,Diploma,Student,SQL for Analytics,Referral,6.0,59.4,7,Yes,4
+EDU00648,2025-10-26,40,Female,West Bengal,Master's,Employed Full-time,Web Development,Referral,1.7,39.2,12,Yes,5
+EDU00649,2025-06-14,46,Female,Karnataka,High School,Employed Part-time,SQL for Analytics,Referral,7.5,78.7,6,Yes,5
+EDU00650,2025-06-22,31,Male,Tamil Nadu,Other,Employed Part-time,Machine Learning Basics,Organic Search,3.6,44.1,12,Yes,4
+EDU00651,2025-11-18,40,Male,Tamil Nadu,Bachelor's,Student,Data Science Foundations,Referral,8.2,75.4,9,Yes,3
+EDU00652,2025-07-19,38,Female,Maharashtra,Bachelor's,Seeking work,Business Intelligence,Social Media,1.6,32.9,9,No,4
+EDU00653,2025-05-08,39,Female,Delhi NCR,Bachelor's,Employed Full-time,Data Science Foundations,Referral,5.2,65.6,10,Yes,4
+EDU00654,2025-04-11,44,Male,Tamil Nadu,Other,Student,Machine Learning Basics,Email Campaign,4.1,63.8,12,Yes,3
+EDU00655,2025-09-17,31,Male,West Bengal,High School,Student,Data Science Foundations,Social Media,0.5,50.0,16,Yes,4
+EDU00656,2025-09-17,36,Female,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,5.9,76.3,9,Yes,4
+EDU00657,2025-07-16,40,Male,Maharashtra,Master's,Student,Data Science Foundations,Social Media,0.5,40.5,14,No,3
+EDU00658,2025-02-28,22,Female,Delhi NCR,Diploma,Self-employed,Python for Data Analysis,Email Campaign,3.9,65.5,12,Yes,4
+EDU00659,2025-02-28,25,Female,West Bengal,Diploma,Self-employed,Web Development,Email Campaign,6.9,82.1,13,Yes,4
+EDU00660,2025-03-30,20,Male,Tamil Nadu,Master's,Student,Data Science Foundations,Social Media,3.3,34.7,8,Yes,4
+EDU00661,2025-01-05,24,Male,Karnataka,Master's,Self-employed,Web Development,Organic Search,2.5,37.8,8,No,3
+EDU00662,2025-06-25,34,Female,Other,High School,Seeking work,SQL for Analytics,Email Campaign,6.3,42.3,10,Yes,4
+EDU00663,2025-06-01,53,Male,Maharashtra,Bachelor's,Student,Data Science Foundations,Email Campaign,4.0,63.7,12,Yes,5
+EDU00664,2025-05-21,52,Male,Karnataka,Diploma,Employed Part-time,Data Science Foundations,Organic Search,3.6,31.3,9,No,4
+EDU00665,2025-12-08,46,Female,Delhi NCR,Diploma,Seeking work,Python for Data Analysis,Social Media,7.3,42.8,11,Yes,3
+EDU00666,2025-03-29,38,Male,Uttar Pradesh,Bachelor's,Self-employed,Business Intelligence,Social Media,1.9,29.4,9,Yes,2
+EDU00667,2025-10-23,24,Female,West Bengal,High School,Employed Full-time,Python for Data Analysis,Email Campaign,3.5,28.1,9,Yes,3
+EDU00668,2025-03-12,30,Male,Maharashtra,Bachelor's,Seeking work,Web Development,Organic Search,6.4,63.9,13,Yes,3
+EDU00669,2025-08-12,46,Female,West Bengal,Diploma,Employed Part-time,Python for Data Analysis,Email Campaign,1.8,29.2,13,No,3
+EDU00670,2025-11-11,52,Female,Uttar Pradesh,Master's,Employed Full-time,Data Science Foundations,Email Campaign,8.4,48.3,13,No,4
+EDU00671,2025-11-02,54,Female,Other,Bachelor's,Student,Python for Data Analysis,Paid Ads,4.0,50.5,15,Yes,5
+EDU00672,2025-08-04,32,Male,Other,Diploma,Employed Full-time,Machine Learning Basics,Paid Ads,6.4,60.8,15,No,5
+EDU00673,2025-03-17,35,Female,West Bengal,Master's,Employed Full-time,SQL for Analytics,Social Media,6.4,38.2,11,No,3
+EDU00674,2025-05-18,36,Male,Maharashtra,Master's,Employed Full-time,Web Development,Email Campaign,4.2,43.2,12,Yes,3
+EDU00675,2025-06-04,19,Female,Karnataka,Diploma,Student,Data Science Foundations,Email Campaign,3.4,47.7,12,Yes,4
+EDU00676,2025-11-05,21,Male,Other,Other,Self-employed,Python for Data Analysis,Paid Ads,4.4,48.3,14,Yes,4
+EDU00677,2025-05-18,18,Male,Tamil Nadu,Diploma,Employed Part-time,Business Intelligence,Referral,6.1,55.4,9,Yes,3
+EDU00678,2025-10-29,45,Female,Tamil Nadu,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,2.3,58.4,11,Yes,4
+EDU00679,2025-12-14,25,Male,Other,Bachelor's,Student,Business Intelligence,Paid Ads,1.9,68.4,11,Yes,4
+EDU00680,2025-02-10,44,Male,Other,High School,Student,SQL for Analytics,Organic Search,7.8,62.4,11,Yes,3
+EDU00681,2025-12-08,31,Male,Uttar Pradesh,Bachelor's,Student,Business Intelligence,Paid Ads,2.9,30.7,7,Yes,2
+EDU00682,2025-07-27,47,Female,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,5.3,53.4,13,Yes,3
+EDU00683,2025-08-08,21,Male,Maharashtra,Master's,Student,Web Development,Referral,4.1,53.7,15,Yes,4
+EDU00684,2025-04-22,29,Male,Uttar Pradesh,Diploma,Seeking work,Python for Data Analysis,Paid Ads,4.2,51.2,16,Yes,4
+EDU00685,2025-05-02,24,Female,Other,Diploma,Student,Business Intelligence,Email Campaign,7.6,72.7,9,Yes,4
+EDU00686,2025-07-17,34,Male,Maharashtra,Bachelor's,Student,Python for Data Analysis,Referral,4.3,78.7,8,Yes,4
+EDU00687,2025-03-14,38,Female,Maharashtra,High School,Self-employed,Business Intelligence,Social Media,3.7,29.2,10,Yes,5
+EDU00688,2025-09-20,23,Female,West Bengal,Other,Employed Full-time,Web Development,Social Media,3.9,44.5,9,Yes,3
+EDU00689,2025-09-01,43,Male,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Organic Search,3.4,67.1,14,Yes,4
+EDU00690,2025-01-04,54,Prefer not to say,Maharashtra,Master's,Student,SQL for Analytics,Referral,3.0,40.7,9,Yes,4
+EDU00691,2025-03-18,18,Female,Karnataka,Master's,Employed Part-time,SQL for Analytics,Social Media,3.4,58.1,9,Yes,4
+EDU00692,2025-07-07,20,Female,Karnataka,Diploma,Employed Full-time,Business Intelligence,Organic Search,8.2,75.4,7,Yes,4
+EDU00693,2025-09-28,54,Female,Karnataka,High School,Self-employed,Machine Learning Basics,Social Media,6.1,74.2,16,Yes,5
+EDU00694,2025-04-17,42,Male,Other,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,3.7,72.8,18,Yes,4
+EDU00695,2025-11-20,52,Female,Uttar Pradesh,Master's,Seeking work,Data Science Foundations,Paid Ads,6.7,65.8,11,Yes,3
+EDU00696,2025-07-14,44,Female,Uttar Pradesh,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,1.0,18.1,7,No,3
+EDU00697,2025-07-16,44,Female,Maharashtra,High School,Self-employed,Data Science Foundations,Paid Ads,7.5,56.6,10,Yes,3
+EDU00698,2025-02-10,23,Male,Delhi NCR,Bachelor's,Employed Part-time,Machine Learning Basics,Social Media,7.3,90.4,21,Yes,5
+EDU00699,2025-08-18,36,Female,Karnataka,Diploma,Employed Full-time,Python for Data Analysis,Social Media,9.4,55.6,12,Yes,4
+EDU00700,2025-10-26,31,Male,Other,Bachelor's,Employed Part-time,SQL for Analytics,Social Media,6.7,67.8,9,Yes,3
+EDU00701,2025-03-19,49,Female,Other,High School,Employed Part-time,Business Intelligence,Paid Ads,5.5,26.8,9,Yes,4
+EDU00702,2025-07-18,18,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Social Media,7.3,48.0,11,Yes,4
+EDU00703,2025-01-03,17,Female,Other,Bachelor's,Employed Part-time,Web Development,Organic Search,3.1,58.0,13,Yes,4
+EDU00704,2025-03-19,38,Female,Maharashtra,Master's,Student,Data Science Foundations,Paid Ads,3.6,49.8,9,Yes,4
+EDU00705,2025-01-26,54,Male,Karnataka,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,4.4,48.1,7,Yes,5
+EDU00706,2025-10-08,55,Female,West Bengal,High School,Student,SQL for Analytics,Email Campaign,7.5,55.2,6,Yes,2
+EDU00707,2025-12-30,40,Female,Karnataka,Master's,Student,SQL for Analytics,Email Campaign,2.6,21.4,10,Yes,3
+EDU00708,2025-01-14,33,Female,Other,Master's,Student,Machine Learning Basics,Email Campaign,2.4,52.9,18,Yes,4
+EDU00709,2025-09-14,27,Female,Maharashtra,Bachelor's,Student,Python for Data Analysis,Organic Search,5.0,51.6,15,Yes,4
+EDU00710,2025-08-05,55,Female,West Bengal,Master's,Student,SQL for Analytics,Email Campaign,6.1,41.1,10,Yes,4
+EDU00711,2025-09-14,24,Female,Maharashtra,Master's,Student,Python for Data Analysis,Organic Search,3.0,47.4,15,Yes,4
+EDU00712,2025-07-03,21,Female,Maharashtra,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,6.0,66.0,22,No,3
+EDU00713,2025-12-28,36,Male,Delhi NCR,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,7.5,62.6,9,Yes,3
+EDU00714,2025-01-15,32,Male,Other,Bachelor's,Seeking work,Python for Data Analysis,Organic Search,7.1,64.8,10,No,4
+EDU00715,2025-02-24,36,Male,Tamil Nadu,Bachelor's,Self-employed,SQL for Analytics,Organic Search,5.3,56.7,6,Yes,3
+EDU00716,2025-04-02,52,Female,Tamil Nadu,Other,Student,SQL for Analytics,Social Media,4.3,43.7,9,No,2
+EDU00717,2025-10-13,27,Prefer not to say,Maharashtra,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,8.3,68.9,10,Yes,4
+EDU00718,2025-01-29,51,Prefer not to say,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,4.5,61.8,13,Yes,4
+EDU00719,2025-02-15,25,Female,Maharashtra,Other,Employed Full-time,SQL for Analytics,Organic Search,6.6,73.8,7,Yes,3
+EDU00720,2025-09-25,29,Female,West Bengal,Bachelor's,Employed Full-time,Business Intelligence,Social Media,8.8,79.7,10,Yes,4
+EDU00721,2025-06-02,17,Male,Maharashtra,Diploma,Employed Part-time,SQL for Analytics,Email Campaign,6.3,52.1,8,Yes,4
+EDU00722,2025-09-15,43,Prefer not to say,Karnataka,Master's,Employed Part-time,Business Intelligence,Referral,2.3,51.8,7,Yes,4
+EDU00723,2025-05-14,50,Male,Tamil Nadu,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,1.8,47.8,16,Yes,3
+EDU00724,2025-02-02,51,Male,Tamil Nadu,Bachelor's,Employed Part-time,Web Development,Social Media,3.8,41.7,13,Yes,4
+EDU00725,2025-08-06,23,Male,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,6.1,53.8,11,Yes,4
+EDU00726,2025-02-09,46,Prefer not to say,Maharashtra,Master's,Self-employed,Python for Data Analysis,Organic Search,5.5,65.2,11,No,5
+EDU00727,2025-06-24,22,Female,Delhi NCR,Diploma,Seeking work,SQL for Analytics,Email Campaign,9.4,89.1,9,Yes,5
+EDU00728,2025-11-18,41,Female,Uttar Pradesh,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,5.5,35.3,8,Yes,3
+EDU00729,2025-03-08,44,Male,Maharashtra,Bachelor's,Self-employed,Machine Learning Basics,Paid Ads,3.8,69.9,12,Yes,5
+EDU00730,2025-03-15,22,Female,Uttar Pradesh,Master's,Self-employed,Data Science Foundations,Email Campaign,2.0,57.0,13,Yes,4
+EDU00731,2025-12-13,21,Female,Maharashtra,High School,Employed Full-time,Data Science Foundations,Referral,7.1,65.8,14,Yes,3
+EDU00732,2025-04-21,19,Female,Other,Diploma,Student,Business Intelligence,Email Campaign,4.5,50.1,6,No,4
+EDU00733,2025-05-16,44,Female,Other,Other,Self-employed,Data Science Foundations,Organic Search,1.2,44.5,13,Yes,5
+EDU00734,2025-09-07,40,Female,Maharashtra,Master's,Employed Full-time,Business Intelligence,Organic Search,4.5,45.3,9,Yes,4
+EDU00735,2025-02-16,21,Male,Delhi NCR,Bachelor's,Student,Machine Learning Basics,Referral,2.3,42.1,14,Yes,3
+EDU00736,2025-01-23,36,Female,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,3.6,31.7,11,No,3
+EDU00737,2025-11-04,48,Male,West Bengal,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,4.5,32.1,14,Yes,4
+EDU00738,2025-12-12,26,Female,Tamil Nadu,Bachelor's,Student,Web Development,Social Media,2.5,73.0,12,No,3
+EDU00739,2025-12-27,40,Non-binary,Tamil Nadu,Bachelor's,Seeking work,Business Intelligence,Email Campaign,3.4,49.4,10,Yes,2
+EDU00740,2025-01-09,28,Male,Maharashtra,Master's,Student,Python for Data Analysis,Organic Search,2.9,49.0,12,Yes,4
+EDU00741,2025-07-13,27,Prefer not to say,Maharashtra,High School,Employed Full-time,SQL for Analytics,Organic Search,2.9,46.2,11,Yes,4
+EDU00742,2025-11-06,32,Female,Uttar Pradesh,Master's,Employed Part-time,Web Development,Organic Search,2.3,34.3,11,Yes,2
+EDU00743,2025-11-05,30,Female,Tamil Nadu,High School,Student,Machine Learning Basics,Paid Ads,3.4,44.9,19,No,4
+EDU00744,2025-05-12,36,Male,West Bengal,Master's,Employed Part-time,Data Science Foundations,Referral,2.5,46.1,13,Yes,4
+EDU00745,2025-06-28,25,Male,West Bengal,High School,Employed Part-time,Python for Data Analysis,Referral,5.8,55.8,15,Yes,4
+EDU00746,2025-02-24,32,Female,Tamil Nadu,High School,Employed Full-time,Machine Learning Basics,Email Campaign,4.9,45.6,21,Yes,4
+EDU00747,2025-02-20,41,Male,Tamil Nadu,Diploma,Employed Full-time,Business Intelligence,Organic Search,7.1,69.2,9,Yes,4
+EDU00748,2025-05-18,32,Male,Other,Diploma,Seeking work,Web Development,Organic Search,8.7,72.1,12,Yes,4
+EDU00749,2025-03-26,42,Female,West Bengal,Bachelor's,Seeking work,Web Development,Organic Search,6.0,63.7,16,Yes,3
+EDU00750,2025-12-22,21,Male,Other,Bachelor's,Student,Data Science Foundations,Organic Search,5.5,65.5,16,Yes,3
+EDU00751,2025-01-30,22,Female,Other,Master's,Employed Full-time,Machine Learning Basics,Social Media,6.1,57.4,22,No,3
+EDU00752,2025-07-13,50,Female,Delhi NCR,Bachelor's,Employed Full-time,Python for Data Analysis,Social Media,5.5,55.0,9,Yes,3
+EDU00753,2025-07-23,35,Male,Uttar Pradesh,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,4.6,71.2,8,Yes,5
+EDU00754,2025-01-22,40,Male,Uttar Pradesh,Bachelor's,Self-employed,Python for Data Analysis,Paid Ads,4.4,41.3,12,No,4
+EDU00755,2025-06-10,45,Male,Maharashtra,Master's,Employed Full-time,Web Development,Paid Ads,2.3,21.7,15,No,2
+EDU00756,2025-12-10,22,Male,Tamil Nadu,High School,Seeking work,Python for Data Analysis,Organic Search,6.3,66.9,9,Yes,4
+EDU00757,2025-02-09,54,Prefer not to say,Delhi NCR,Diploma,Employed Full-time,SQL for Analytics,Referral,4.4,45.0,8,Yes,4
+EDU00758,2025-02-22,33,Female,Delhi NCR,High School,Student,SQL for Analytics,Organic Search,7.7,52.9,9,Yes,3
+EDU00759,2025-03-02,51,Female,Maharashtra,Diploma,Employed Full-time,Data Science Foundations,Organic Search,6.5,71.6,10,Yes,5
+EDU00760,2025-01-20,33,Female,Uttar Pradesh,Bachelor's,Employed Full-time,SQL for Analytics,Referral,3.1,45.7,10,Yes,4
+EDU00761,2025-11-20,32,Male,Uttar Pradesh,High School,Employed Full-time,Python for Data Analysis,Social Media,7.2,48.6,10,No,4
+EDU00762,2025-01-17,40,Male,Tamil Nadu,High School,Employed Full-time,Data Science Foundations,Email Campaign,0.5,60.2,16,Yes,4
+EDU00763,2025-04-13,24,Male,Maharashtra,Master's,Self-employed,SQL for Analytics,Paid Ads,8.7,50.5,8,Yes,4
+EDU00764,2025-10-29,40,Female,Tamil Nadu,High School,Seeking work,Business Intelligence,Organic Search,1.6,40.4,9,Yes,3
+EDU00765,2025-12-30,55,Female,Maharashtra,Bachelor's,Student,Machine Learning Basics,Paid Ads,5.6,34.7,17,Yes,5
+EDU00766,2025-02-25,42,Male,Karnataka,Bachelor's,Employed Full-time,Business Intelligence,Organic Search,5.4,59.8,7,Yes,4
+EDU00767,2025-05-12,19,Male,Karnataka,Master's,Employed Part-time,Data Science Foundations,Paid Ads,7.0,55.3,12,Yes,5
+EDU00768,2025-03-07,44,Female,Other,Bachelor's,Student,Python for Data Analysis,Referral,3.8,60.0,16,Yes,4
+EDU00769,2025-03-12,18,Male,Delhi NCR,High School,Self-employed,SQL for Analytics,Organic Search,0.5,36.8,9,No,4
+EDU00770,2025-12-11,21,Male,Tamil Nadu,Master's,Employed Full-time,Web Development,Social Media,3.8,66.4,9,Yes,4
+EDU00771,2025-05-04,28,Male,Other,Bachelor's,Student,Python for Data Analysis,Organic Search,4.0,45.8,14,No,3
+EDU00772,2025-08-12,28,Female,Delhi NCR,Diploma,Self-employed,Python for Data Analysis,Email Campaign,0.5,17.7,10,No,2
+EDU00773,2025-02-27,17,Male,Other,Bachelor's,Employed Full-time,Web Development,Organic Search,4.6,56.3,12,Yes,4
+EDU00774,2025-04-15,17,Female,Maharashtra,Bachelor's,Student,Web Development,Paid Ads,2.1,40.4,12,No,4
+EDU00775,2025-05-12,47,Female,Karnataka,Diploma,Student,Python for Data Analysis,Social Media,5.9,36.8,12,Yes,2
+EDU00776,2025-08-03,34,Male,Maharashtra,Bachelor's,Self-employed,Business Intelligence,Paid Ads,4.0,38.3,6,Yes,3
+EDU00777,2025-11-25,24,Female,Tamil Nadu,High School,Seeking work,SQL for Analytics,Social Media,8.8,61.4,7,Yes,5
+EDU00778,2025-03-30,33,Female,Other,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,3.9,69.3,6,Yes,3
+EDU00779,2025-08-24,44,Female,Uttar Pradesh,Other,Student,SQL for Analytics,Email Campaign,5.4,65.1,8,Yes,5
+EDU00780,2025-06-30,45,Female,Tamil Nadu,Bachelor's,Student,Web Development,Organic Search,4.0,46.8,14,Yes,3
+EDU00781,2025-10-18,28,Male,Karnataka,Other,Employed Part-time,Python for Data Analysis,Organic Search,0.9,44.3,14,Yes,3
+EDU00782,2025-05-03,23,Female,Other,Diploma,Employed Full-time,Business Intelligence,Referral,4.0,26.5,6,Yes,3
+EDU00783,2025-06-04,54,Male,Delhi NCR,Master's,Employed Full-time,Python for Data Analysis,Email Campaign,6.2,53.0,9,Yes,5
+EDU00784,2025-08-16,41,Male,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Email Campaign,5.8,63.0,18,No,3
+EDU00785,2025-06-11,55,Female,Other,Bachelor's,Employed Full-time,Machine Learning Basics,Social Media,3.9,52.6,17,Yes,2
+EDU00786,2025-10-04,28,Male,Delhi NCR,High School,Employed Part-time,Business Intelligence,Paid Ads,1.3,33.7,11,No,2
+EDU00787,2025-01-06,21,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Paid Ads,5.9,58.1,10,Yes,4
+EDU00788,2025-05-08,31,Female,Maharashtra,High School,Student,Business Intelligence,Email Campaign,5.4,60.7,6,No,3
+EDU00789,2025-03-05,29,Female,Maharashtra,Bachelor's,Employed Full-time,Business Intelligence,Organic Search,6.4,60.5,8,Yes,5
+EDU00790,2025-02-22,45,Female,West Bengal,Other,Employed Full-time,Data Science Foundations,Organic Search,3.9,60.9,14,Yes,4
+EDU00791,2025-01-20,44,Female,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Paid Ads,0.8,42.0,12,Yes,3
+EDU00792,2025-05-10,19,Female,Other,High School,Student,SQL for Analytics,Email Campaign,5.7,63.9,6,Yes,4
+EDU00793,2025-03-21,39,Male,Maharashtra,Diploma,Student,SQL for Analytics,Referral,4.5,73.6,6,Yes,4
+EDU00794,2025-10-04,30,Male,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,7.6,75.3,10,No,4
+EDU00795,2025-07-03,40,Non-binary,Uttar Pradesh,Bachelor's,Student,Data Science Foundations,Organic Search,4.6,74.3,11,Yes,3
+EDU00796,2025-10-15,32,Male,Tamil Nadu,Diploma,Employed Full-time,Machine Learning Basics,Email Campaign,4.4,44.5,19,No,4
+EDU00797,2025-11-20,37,Male,Delhi NCR,Master's,Employed Full-time,Data Science Foundations,Referral,5.4,37.5,11,Yes,3
+EDU00798,2025-10-14,44,Female,Tamil Nadu,High School,Student,Data Science Foundations,Paid Ads,3.2,46.1,11,Yes,4
+EDU00799,2025-06-03,28,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Web Development,Email Campaign,3.1,44.7,10,Yes,3
+EDU00800,2025-12-22,24,Female,Other,Bachelor's,Employed Full-time,Web Development,Referral,4.3,69.7,17,Yes,4
+EDU00801,2025-05-21,44,Male,Karnataka,High School,Student,SQL for Analytics,Organic Search,2.5,31.4,6,Yes,3
+EDU00802,2025-10-29,53,Male,Delhi NCR,Bachelor's,Self-employed,Web Development,Paid Ads,4.0,50.1,9,Yes,5
+EDU00803,2025-03-05,34,Female,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Email Campaign,8.8,75.1,11,Yes,4
+EDU00804,2025-12-20,55,Male,Karnataka,Bachelor's,Seeking work,Data Science Foundations,Social Media,6.8,63.4,9,Yes,3
+EDU00805,2025-04-21,24,Male,Maharashtra,Master's,Student,Web Development,Paid Ads,5.2,53.7,11,Yes,3
+EDU00806,2025-08-17,48,Male,Other,Bachelor's,Seeking work,Machine Learning Basics,Social Media,7.9,70.9,14,Yes,3
+EDU00807,2025-05-10,55,Female,Maharashtra,Diploma,Self-employed,Business Intelligence,Social Media,2.7,58.7,10,Yes,4
+EDU00808,2025-03-25,28,Male,Maharashtra,Other,Student,SQL for Analytics,Paid Ads,10.0,93.4,8,Yes,5
+EDU00809,2025-05-01,22,Male,Tamil Nadu,Other,Employed Full-time,SQL for Analytics,Email Campaign,3.5,49.4,11,No,4
+EDU00810,2025-08-10,42,Female,Maharashtra,High School,Employed Part-time,Python for Data Analysis,Paid Ads,8.9,60.8,15,Yes,4
+EDU00811,2025-02-10,50,Male,Maharashtra,Other,Employed Full-time,Web Development,Paid Ads,8.9,89.0,13,Yes,4
+EDU00812,2025-03-14,20,Female,Maharashtra,Master's,Employed Full-time,Data Science Foundations,Referral,0.6,24.5,10,No,3
+EDU00813,2025-12-02,41,Male,Maharashtra,High School,Seeking work,SQL for Analytics,Social Media,7.7,87.3,10,Yes,5
+EDU00814,2025-02-01,50,Female,Delhi NCR,Bachelor's,Employed Part-time,Python for Data Analysis,Paid Ads,3.9,66.7,16,Yes,3
+EDU00815,2025-09-21,18,Female,West Bengal,High School,Seeking work,Machine Learning Basics,Referral,3.3,66.1,21,Yes,4
+EDU00816,2025-04-20,37,Female,Karnataka,Bachelor's,Self-employed,Data Science Foundations,Referral,5.7,66.0,8,Yes,4
+EDU00817,2025-04-27,20,Male,Delhi NCR,Master's,Self-employed,Business Intelligence,Referral,2.3,18.9,10,No,3
+EDU00818,2025-05-13,23,Male,Tamil Nadu,Bachelor's,Employed Part-time,SQL for Analytics,Organic Search,5.6,44.9,10,No,3
+EDU00819,2025-05-20,35,Female,Karnataka,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,2.4,48.3,16,Yes,4
+EDU00820,2025-09-16,29,Female,Delhi NCR,Diploma,Seeking work,Python for Data Analysis,Referral,4.9,46.5,10,Yes,3
+EDU00821,2025-10-21,20,Male,Karnataka,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,7.4,60.8,15,Yes,4
+EDU00822,2025-05-13,48,Female,Karnataka,Master's,Student,Business Intelligence,Social Media,5.4,64.0,10,Yes,5
+EDU00823,2025-03-04,24,Female,Karnataka,Diploma,Employed Full-time,Business Intelligence,Organic Search,3.7,47.8,11,No,3
+EDU00824,2025-01-02,50,Prefer not to say,Maharashtra,Bachelor's,Student,Data Science Foundations,Social Media,5.7,43.2,14,No,2
+EDU00825,2025-09-22,23,Female,Other,Bachelor's,Seeking work,SQL for Analytics,Email Campaign,1.4,51.2,11,Yes,3
+EDU00826,2025-12-01,37,Male,Other,Master's,Employed Part-time,Data Science Foundations,Organic Search,2.7,52.0,11,Yes,4
+EDU00827,2025-01-13,45,Female,Other,Bachelor's,Employed Full-time,Web Development,Referral,3.6,46.4,9,Yes,4
+EDU00828,2025-08-04,35,Male,Maharashtra,Bachelor's,Student,Web Development,Email Campaign,6.2,68.3,11,Yes,4
+EDU00829,2025-03-21,33,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Business Intelligence,Social Media,5.4,57.7,10,Yes,5
+EDU00830,2025-03-18,46,Female,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,5.7,73.8,9,Yes,4
+EDU00831,2025-10-30,17,Male,Maharashtra,Bachelor's,Employed Part-time,SQL for Analytics,Paid Ads,4.4,54.4,9,Yes,4
+EDU00832,2025-04-03,49,Male,Other,Bachelor's,Employed Full-time,Web Development,Organic Search,2.8,62.1,17,Yes,3
+EDU00833,2025-04-21,43,Male,West Bengal,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,7.8,43.7,16,No,5
+EDU00834,2025-02-15,46,Female,Maharashtra,Master's,Student,Machine Learning Basics,Organic Search,3.0,52.5,19,No,4
+EDU00835,2025-11-26,33,Female,Other,Diploma,Employed Full-time,Web Development,Email Campaign,5.4,51.8,15,Yes,3
+EDU00836,2025-11-27,31,Male,Maharashtra,High School,Employed Full-time,Business Intelligence,Paid Ads,4.3,41.9,6,Yes,5
+EDU00837,2025-11-30,39,Female,Delhi NCR,Other,Self-employed,Machine Learning Basics,Email Campaign,5.7,71.7,16,Yes,4
+EDU00838,2025-03-26,42,Female,Maharashtra,High School,Seeking work,SQL for Analytics,Paid Ads,3.2,58.5,9,Yes,4
+EDU00839,2025-03-10,53,Female,Maharashtra,Master's,Employed Part-time,Web Development,Email Campaign,6.8,38.1,15,Yes,5
+EDU00840,2025-12-10,50,Male,Other,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,7.5,73.6,11,Yes,5
+EDU00841,2025-08-12,19,Female,Tamil Nadu,Master's,Student,Web Development,Organic Search,6.7,68.9,9,No,5
+EDU00842,2025-04-07,22,Female,Karnataka,Bachelor's,Seeking work,SQL for Analytics,Email Campaign,4.8,45.5,10,Yes,4
+EDU00843,2025-01-18,53,Male,West Bengal,Master's,Seeking work,Business Intelligence,Email Campaign,3.5,39.0,8,Yes,4
+EDU00844,2025-10-19,32,Female,Other,Bachelor's,Student,Web Development,Referral,10.7,58.7,16,Yes,4
+EDU00845,2025-10-20,39,Female,Other,Bachelor's,Employed Part-time,SQL for Analytics,Referral,2.3,40.1,8,No,3
+EDU00846,2025-01-04,19,Female,Other,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,6.4,58.5,16,Yes,4
+EDU00847,2025-06-24,21,Female,Other,High School,Student,Python for Data Analysis,Social Media,5.2,65.4,13,Yes,4
+EDU00848,2025-06-26,32,Prefer not to say,Tamil Nadu,Diploma,Seeking work,Business Intelligence,Referral,4.4,55.8,10,Yes,4
+EDU00849,2025-06-19,44,Female,Karnataka,Other,Seeking work,Machine Learning Basics,Email Campaign,4.9,41.9,19,Yes,4
+EDU00850,2025-05-15,47,Male,Other,Diploma,Seeking work,Data Science Foundations,Email Campaign,3.4,51.5,10,No,4
+EDU00851,2025-04-30,51,Male,Maharashtra,Master's,Student,Web Development,Social Media,5.4,53.6,11,Yes,4
+EDU00852,2025-05-03,24,Female,Maharashtra,Bachelor's,Employed Full-time,Web Development,Paid Ads,5.2,44.6,16,No,5
+EDU00853,2025-12-02,24,Female,Delhi NCR,Diploma,Seeking work,Web Development,Social Media,10.4,57.5,10,Yes,5
+EDU00854,2025-12-29,38,Male,Karnataka,Other,Employed Part-time,Machine Learning Basics,Social Media,6.9,70.1,19,Yes,4
+EDU00855,2025-02-10,38,Female,Tamil Nadu,High School,Employed Full-time,Web Development,Email Campaign,5.6,62.8,9,Yes,4
+EDU00856,2025-09-21,18,Female,Other,Bachelor's,Employed Full-time,Web Development,Paid Ads,5.8,64.9,15,Yes,5
+EDU00857,2025-07-29,34,Non-binary,Delhi NCR,Bachelor's,Student,Python for Data Analysis,Paid Ads,8.5,60.3,10,Yes,3
+EDU00858,2025-04-04,52,Female,Tamil Nadu,High School,Employed Full-time,Web Development,Organic Search,2.4,46.7,13,No,5
+EDU00859,2025-03-09,23,Male,Delhi NCR,Diploma,Self-employed,SQL for Analytics,Social Media,4.1,34.9,9,Yes,3
+EDU00860,2025-10-02,48,Female,Uttar Pradesh,Bachelor's,Student,Web Development,Email Campaign,0.5,25.2,10,No,4
+EDU00861,2025-05-14,34,Female,Maharashtra,High School,Student,Business Intelligence,Email Campaign,5.7,58.2,8,No,4
+EDU00862,2025-02-17,37,Male,Maharashtra,Master's,Employed Full-time,Machine Learning Basics,Referral,6.4,63.7,21,Yes,4
+EDU00863,2025-12-20,42,Female,Tamil Nadu,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,2.3,24.7,14,Yes,2
+EDU00864,2025-12-04,44,Female,Tamil Nadu,High School,Employed Full-time,Python for Data Analysis,Referral,7.7,53.1,17,Yes,4
+EDU00865,2025-06-02,41,Female,Delhi NCR,Diploma,Student,Data Science Foundations,Organic Search,2.9,42.2,15,Yes,3
+EDU00866,2025-06-05,21,Female,Karnataka,High School,Employed Part-time,Machine Learning Basics,Social Media,3.7,61.3,18,Yes,3
+EDU00867,2025-06-03,28,Male,Maharashtra,Master's,Student,Web Development,Referral,4.8,44.4,13,Yes,4
+EDU00868,2025-03-11,49,Female,Uttar Pradesh,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,8.0,68.7,16,Yes,5
+EDU00869,2025-02-08,18,Prefer not to say,Delhi NCR,High School,Employed Full-time,Python for Data Analysis,Email Campaign,2.6,48.3,13,Yes,3
+EDU00870,2025-04-10,44,Female,Delhi NCR,Bachelor's,Employed Full-time,Machine Learning Basics,Referral,5.1,52.4,15,Yes,4
+EDU00871,2025-05-22,37,Female,Other,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,6.2,63.0,16,Yes,4
+EDU00872,2025-02-26,21,Female,Uttar Pradesh,Bachelor's,Employed Part-time,Python for Data Analysis,Social Media,5.8,42.1,16,Yes,3
+EDU00873,2025-01-13,21,Male,Maharashtra,High School,Employed Full-time,Python for Data Analysis,Paid Ads,5.8,50.3,12,Yes,5
+EDU00874,2025-12-06,55,Male,Uttar Pradesh,High School,Employed Full-time,Machine Learning Basics,Referral,6.2,77.0,12,Yes,4
+EDU00875,2025-11-17,18,Male,Maharashtra,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,3.3,66.3,18,Yes,4
+EDU00876,2025-04-22,17,Female,Maharashtra,Bachelor's,Employed Full-time,Business Intelligence,Social Media,8.2,77.9,10,Yes,3
+EDU00877,2025-08-13,17,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Data Science Foundations,Referral,4.3,65.4,11,Yes,3
+EDU00878,2025-02-22,41,Male,Maharashtra,Diploma,Employed Full-time,Python for Data Analysis,Paid Ads,4.0,29.1,15,No,4
+EDU00879,2025-12-05,53,Female,Karnataka,Diploma,Employed Full-time,Business Intelligence,Organic Search,7.5,53.6,9,Yes,4
+EDU00880,2025-10-24,23,Male,Other,Bachelor's,Student,Web Development,Social Media,3.1,43.7,11,Yes,3
+EDU00881,2025-03-06,48,Female,Uttar Pradesh,High School,Employed Part-time,Data Science Foundations,Paid Ads,5.2,84.8,14,Yes,5
+EDU00882,2025-03-19,45,Female,Other,Bachelor's,Student,Web Development,Social Media,2.9,42.8,12,Yes,5
+EDU00883,2025-05-02,25,Female,Other,Bachelor's,Seeking work,Business Intelligence,Social Media,10.0,83.9,10,Yes,5
+EDU00884,2025-02-04,19,Female,Karnataka,Diploma,Employed Full-time,Web Development,Paid Ads,9.6,77.9,8,Yes,3
+EDU00885,2025-05-07,36,Male,Tamil Nadu,Bachelor's,Student,SQL for Analytics,Organic Search,4.3,56.5,10,Yes,4
+EDU00886,2025-09-01,20,Male,Karnataka,Diploma,Employed Part-time,Python for Data Analysis,Referral,5.6,57.1,11,Yes,3
+EDU00887,2025-09-23,21,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Python for Data Analysis,Email Campaign,4.5,38.6,17,No,3
+EDU00888,2025-01-03,35,Male,Karnataka,High School,Seeking work,Business Intelligence,Email Campaign,3.7,17.4,10,Yes,2
+EDU00889,2025-05-09,48,Female,Maharashtra,Bachelor's,Seeking work,Web Development,Social Media,4.8,69.6,10,Yes,3
+EDU00890,2025-10-31,55,Male,Maharashtra,Bachelor's,Self-employed,SQL for Analytics,Organic Search,4.4,45.2,11,Yes,2
+EDU00891,2025-11-14,41,Female,West Bengal,High School,Employed Full-time,Python for Data Analysis,Paid Ads,1.2,17.4,12,No,3
+EDU00892,2025-07-25,27,Male,Maharashtra,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,5.1,60.7,13,Yes,2
+EDU00893,2025-09-26,29,Female,Tamil Nadu,Master's,Employed Part-time,Machine Learning Basics,Organic Search,4.4,57.6,21,Yes,4
+EDU00894,2025-04-01,40,Male,Other,Other,Seeking work,Web Development,Social Media,5.2,65.0,16,Yes,4
+EDU00895,2025-11-13,23,Male,Uttar Pradesh,Diploma,Student,Data Science Foundations,Referral,4.3,65.6,14,Yes,3
+EDU00896,2025-06-22,37,Male,Delhi NCR,Diploma,Seeking work,Machine Learning Basics,Organic Search,3.7,38.8,22,No,3
+EDU00897,2025-09-10,46,Male,Maharashtra,Diploma,Employed Part-time,SQL for Analytics,Paid Ads,6.4,50.1,7,No,4
+EDU00898,2025-04-06,49,Male,Other,Master's,Employed Full-time,Web Development,Paid Ads,5.7,54.0,10,Yes,3
+EDU00899,2025-03-05,19,Male,Tamil Nadu,Bachelor's,Seeking work,Business Intelligence,Social Media,7.6,75.3,6,Yes,4
+EDU00900,2025-07-14,28,Male,Delhi NCR,Diploma,Employed Part-time,Python for Data Analysis,Paid Ads,5.6,32.2,11,No,2
+EDU00901,2025-07-10,26,Female,Other,Master's,Seeking work,Machine Learning Basics,Email Campaign,4.1,52.9,18,Yes,4
+EDU00902,2025-07-28,38,Male,Maharashtra,High School,Student,Business Intelligence,Email Campaign,5.9,69.8,7,Yes,4
+EDU00903,2025-10-22,24,Female,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Paid Ads,0.5,47.7,13,Yes,4
+EDU00904,2025-10-09,54,Male,Maharashtra,Bachelor's,Employed Part-time,Machine Learning Basics,Social Media,9.1,79.9,11,Yes,5
+EDU00905,2025-04-21,52,Male,Maharashtra,Bachelor's,Student,Python for Data Analysis,Paid Ads,5.1,68.2,11,No,4
+EDU00906,2025-06-20,29,Female,Delhi NCR,Bachelor's,Self-employed,SQL for Analytics,Organic Search,9.3,39.2,10,Yes,4
+EDU00907,2025-02-01,32,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Machine Learning Basics,Social Media,2.6,64.8,12,Yes,4
+EDU00908,2025-10-15,34,Female,Karnataka,Bachelor's,Student,Data Science Foundations,Referral,2.0,47.0,14,No,4
+EDU00909,2025-02-19,18,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Web Development,Organic Search,5.3,72.2,15,Yes,4
+EDU00910,2025-01-26,51,Male,West Bengal,High School,Student,Data Science Foundations,Email Campaign,5.3,42.1,13,Yes,3
+EDU00911,2025-07-09,47,Male,Other,Master's,Self-employed,Web Development,Social Media,5.2,34.8,16,Yes,4
+EDU00912,2025-12-03,29,Male,Maharashtra,Master's,Self-employed,SQL for Analytics,Social Media,4.9,76.0,11,Yes,4
+EDU00913,2025-05-18,38,Female,West Bengal,Master's,Employed Full-time,Python for Data Analysis,Referral,3.1,36.3,8,Yes,3
+EDU00914,2025-03-09,31,Female,Maharashtra,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,1.2,36.1,10,Yes,3
+EDU00915,2025-03-09,25,Male,Uttar Pradesh,Diploma,Employed Full-time,Machine Learning Basics,Organic Search,5.1,61.7,13,Yes,4
+EDU00916,2025-11-02,28,Female,Karnataka,Bachelor's,Employed Full-time,Web Development,Organic Search,1.7,51.1,12,Yes,4
+EDU00917,2025-08-30,21,Female,Uttar Pradesh,Bachelor's,Seeking work,SQL for Analytics,Paid Ads,1.5,53.9,9,Yes,3
+EDU00918,2025-06-30,48,Female,Maharashtra,High School,Employed Full-time,Python for Data Analysis,Email Campaign,3.7,52.5,14,Yes,5
+EDU00919,2025-12-05,42,Female,Tamil Nadu,Bachelor's,Employed Full-time,Web Development,Referral,5.4,43.9,16,Yes,5
+EDU00920,2025-02-08,53,Prefer not to say,Maharashtra,Bachelor's,Employed Full-time,SQL for Analytics,Referral,8.9,79.1,10,Yes,4
+EDU00921,2025-08-13,17,Female,Maharashtra,High School,Employed Part-time,Data Science Foundations,Referral,6.7,70.5,15,Yes,4
+EDU00922,2025-05-12,41,Female,Tamil Nadu,Master's,Self-employed,Web Development,Social Media,7.7,44.0,13,Yes,4
+EDU00923,2025-03-27,38,Male,Karnataka,High School,Student,Python for Data Analysis,Organic Search,5.9,75.6,9,Yes,4
+EDU00924,2025-12-02,41,Prefer not to say,Uttar Pradesh,Bachelor's,Student,Python for Data Analysis,Referral,5.3,26.4,8,No,2
+EDU00925,2025-12-16,55,Female,Uttar Pradesh,Master's,Student,SQL for Analytics,Social Media,10.0,87.4,9,Yes,5
+EDU00926,2025-11-01,32,Male,Tamil Nadu,Bachelor's,Student,Machine Learning Basics,Paid Ads,1.6,33.8,19,No,4
+EDU00927,2025-02-24,22,Female,Uttar Pradesh,High School,Employed Full-time,SQL for Analytics,Organic Search,3.6,57.9,6,Yes,4
+EDU00928,2025-09-21,17,Male,West Bengal,Bachelor's,Self-employed,Web Development,Referral,3.8,56.3,12,Yes,5
+EDU00929,2025-05-11,36,Female,Other,Master's,Employed Full-time,Data Science Foundations,Social Media,6.5,60.6,10,Yes,4
+EDU00930,2025-05-19,23,Female,Maharashtra,Master's,Student,Web Development,Email Campaign,2.3,49.6,13,No,4
+EDU00931,2025-03-12,22,Female,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,6.2,58.8,12,Yes,3
+EDU00932,2025-08-03,22,Male,Uttar Pradesh,High School,Self-employed,Python for Data Analysis,Social Media,5.8,66.8,10,Yes,4
+EDU00933,2025-11-09,27,Female,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,6.3,86.4,8,Yes,5
+EDU00934,2025-03-26,21,Female,Karnataka,Diploma,Student,Python for Data Analysis,Email Campaign,6.2,43.7,11,Yes,4
+EDU00935,2025-07-16,35,Male,Karnataka,Master's,Self-employed,SQL for Analytics,Organic Search,7.9,28.3,9,Yes,3
+EDU00936,2025-08-25,42,Female,Tamil Nadu,Bachelor's,Student,Web Development,Organic Search,4.4,47.6,16,Yes,5
+EDU00937,2025-08-19,28,Male,Karnataka,Master's,Self-employed,Business Intelligence,Email Campaign,5.7,52.0,7,Yes,4
+EDU00938,2025-04-06,22,Female,Uttar Pradesh,Other,Self-employed,Business Intelligence,Organic Search,2.9,42.1,9,Yes,4
+EDU00939,2025-01-11,39,Female,Tamil Nadu,Bachelor's,Seeking work,Python for Data Analysis,Organic Search,2.4,33.5,13,No,3
+EDU00940,2025-10-30,20,Female,Uttar Pradesh,Master's,Student,Web Development,Social Media,8.4,79.1,14,Yes,5
+EDU00941,2025-08-06,45,Female,Karnataka,Bachelor's,Student,Data Science Foundations,Social Media,2.7,29.2,11,Yes,4
+EDU00942,2025-09-15,31,Female,Uttar Pradesh,Diploma,Seeking work,Business Intelligence,Paid Ads,5.9,64.0,6,Yes,4
+EDU00943,2025-07-14,32,Male,Uttar Pradesh,Master's,Employed Full-time,Business Intelligence,Social Media,5.7,65.5,11,No,4
+EDU00944,2025-05-21,26,Male,Maharashtra,Bachelor's,Employed Full-time,Python for Data Analysis,Social Media,7.1,67.2,17,Yes,4
+EDU00945,2025-04-02,28,Female,Maharashtra,Other,Employed Full-time,SQL for Analytics,Email Campaign,0.9,44.4,8,Yes,3
+EDU00946,2025-08-29,22,Female,Karnataka,Diploma,Student,Web Development,Paid Ads,6.5,72.4,13,Yes,3
+EDU00947,2025-10-31,38,Male,Other,Bachelor's,Employed Part-time,Data Science Foundations,Social Media,4.4,53.2,8,No,4
+EDU00948,2025-04-29,22,Female,Karnataka,Master's,Seeking work,Machine Learning Basics,Referral,3.2,43.6,11,Yes,3
+EDU00949,2025-01-09,43,Male,Maharashtra,High School,Employed Part-time,Web Development,Referral,3.9,56.4,9,Yes,3
+EDU00950,2025-02-26,26,Male,Maharashtra,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,6.8,69.4,15,Yes,4
+EDU00951,2025-07-31,39,Female,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Organic Search,6.1,70.1,10,Yes,4
+EDU00952,2025-03-27,37,Male,Delhi NCR,High School,Employed Part-time,SQL for Analytics,Email Campaign,4.2,31.3,7,Yes,3
+EDU00953,2025-10-25,41,Non-binary,West Bengal,High School,Student,Business Intelligence,Social Media,2.0,40.8,6,Yes,5
+EDU00954,2025-04-10,46,Male,Delhi NCR,Master's,Employed Part-time,SQL for Analytics,Social Media,2.1,30.6,6,Yes,4
+EDU00955,2025-06-30,38,Prefer not to say,West Bengal,High School,Student,SQL for Analytics,Referral,6.2,66.5,8,Yes,5
+EDU00956,2025-03-24,50,Female,Maharashtra,Master's,Employed Full-time,Data Science Foundations,Organic Search,1.7,50.5,13,Yes,3
+EDU00957,2025-06-15,27,Male,Delhi NCR,Bachelor's,Employed Full-time,Web Development,Organic Search,4.2,48.5,13,Yes,4
+EDU00958,2025-09-05,46,Female,West Bengal,Bachelor's,Student,Web Development,Social Media,10.4,67.8,12,Yes,4
+EDU00959,2025-10-18,30,Female,Uttar Pradesh,Bachelor's,Student,Machine Learning Basics,Paid Ads,5.5,64.2,16,Yes,4
+EDU00960,2025-09-27,41,Prefer not to say,Other,High School,Employed Full-time,Web Development,Email Campaign,6.1,57.8,15,Yes,5
+EDU00961,2025-07-05,36,Female,Karnataka,Master's,Employed Full-time,Machine Learning Basics,Social Media,2.2,60.9,14,Yes,3
+EDU00962,2025-06-16,52,Prefer not to say,Delhi NCR,High School,Employed Full-time,Web Development,Social Media,1.8,63.5,10,Yes,2
+EDU00963,2025-04-29,27,Male,Uttar Pradesh,Diploma,Student,Python for Data Analysis,Paid Ads,6.3,72.2,16,Yes,4
+EDU00964,2025-12-27,37,Male,Maharashtra,Other,Employed Part-time,Data Science Foundations,Referral,3.9,53.4,14,Yes,2
+EDU00965,2025-09-25,23,Prefer not to say,West Bengal,Diploma,Seeking work,Web Development,Email Campaign,7.1,85.3,12,Yes,4
+EDU00966,2025-11-22,41,Male,Karnataka,Diploma,Student,SQL for Analytics,Organic Search,4.8,57.1,7,Yes,3
+EDU00967,2025-09-27,18,Prefer not to say,Maharashtra,Other,Self-employed,Data Science Foundations,Organic Search,12.3,78.4,9,Yes,4
+EDU00968,2025-02-01,33,Male,Uttar Pradesh,High School,Student,Business Intelligence,Social Media,3.5,40.9,6,Yes,2
+EDU00969,2025-04-07,17,Male,Uttar Pradesh,High School,Employed Full-time,Machine Learning Basics,Paid Ads,5.4,48.2,21,Yes,4
+EDU00970,2025-06-18,29,Male,Other,Bachelor's,Employed Full-time,Data Science Foundations,Paid Ads,2.8,46.1,13,Yes,2
+EDU00971,2025-04-25,35,Female,Other,Master's,Student,Data Science Foundations,Organic Search,7.0,68.6,8,Yes,4
+EDU00972,2025-11-28,29,Female,Karnataka,Master's,Student,SQL for Analytics,Email Campaign,5.7,40.8,6,Yes,3
+EDU00973,2025-06-29,32,Female,Tamil Nadu,Master's,Self-employed,Python for Data Analysis,Paid Ads,2.6,40.0,11,Yes,4
+EDU00974,2025-03-22,22,Female,Other,Other,Self-employed,Data Science Foundations,Paid Ads,4.0,53.6,10,Yes,4
+EDU00975,2025-08-07,44,Female,Karnataka,High School,Seeking work,SQL for Analytics,Social Media,7.7,73.5,9,Yes,5
+EDU00976,2025-05-19,48,Male,Delhi NCR,Bachelor's,Seeking work,Business Intelligence,Organic Search,7.5,64.7,8,Yes,4
+EDU00977,2025-02-16,34,Male,Other,High School,Employed Full-time,SQL for Analytics,Paid Ads,1.6,44.3,11,No,3
+EDU00978,2025-12-12,19,Male,Maharashtra,Master's,Student,Data Science Foundations,Social Media,3.7,34.9,14,No,4
+EDU00979,2025-12-12,19,Male,Other,Master's,Student,Machine Learning Basics,Organic Search,8.7,58.9,21,Yes,5
+EDU00980,2025-10-11,43,Prefer not to say,Delhi NCR,Diploma,Employed Full-time,Python for Data Analysis,Organic Search,4.4,51.9,16,No,4
+EDU00981,2025-04-25,53,Male,Other,Master's,Self-employed,Data Science Foundations,Referral,5.1,61.5,16,Yes,4
+EDU00982,2025-10-31,50,Male,Tamil Nadu,Bachelor's,Student,Python for Data Analysis,Organic Search,7.0,65.8,17,Yes,4
+EDU00983,2025-04-16,32,Female,Uttar Pradesh,High School,Student,Machine Learning Basics,Referral,1.8,32.0,14,Yes,3
+EDU00984,2025-11-18,36,Non-binary,West Bengal,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,2.7,43.0,10,Yes,4
+EDU00985,2025-11-19,23,Female,Maharashtra,Other,Seeking work,SQL for Analytics,Referral,4.0,69.1,6,Yes,5
+EDU00986,2025-03-04,19,Female,Tamil Nadu,Diploma,Employed Full-time,Machine Learning Basics,Paid Ads,7.4,71.1,18,Yes,4
+EDU00987,2025-04-25,46,Female,Other,High School,Employed Part-time,Business Intelligence,Paid Ads,7.0,61.0,10,Yes,4
+EDU00988,2025-09-13,33,Male,Other,Other,Employed Full-time,Business Intelligence,Email Campaign,6.3,47.9,6,Yes,3
+EDU00989,2025-03-27,36,Male,Other,Bachelor's,Employed Full-time,Web Development,Referral,4.4,44.0,15,Yes,4
+EDU00990,2025-10-21,30,Female,Tamil Nadu,Bachelor's,Employed Full-time,Machine Learning Basics,Paid Ads,7.2,63.9,20,Yes,2
+EDU00991,2025-09-05,29,Male,Tamil Nadu,Bachelor's,Self-employed,Data Science Foundations,Referral,4.4,55.9,14,Yes,4
+EDU00992,2025-03-24,55,Female,Tamil Nadu,Bachelor's,Employed Part-time,Data Science Foundations,Organic Search,6.0,65.8,12,Yes,5
+EDU00993,2025-10-11,48,Female,Tamil Nadu,Diploma,Employed Full-time,Python for Data Analysis,Paid Ads,6.7,66.5,9,Yes,4
+EDU00994,2025-01-16,43,Female,Tamil Nadu,High School,Student,Data Science Foundations,Referral,8.5,64.6,13,Yes,4
+EDU00995,2025-05-21,32,Female,Maharashtra,Master's,Student,Python for Data Analysis,Paid Ads,4.6,47.3,9,Yes,5
+EDU00996,2025-03-07,45,Male,Maharashtra,Bachelor's,Student,Data Science Foundations,Social Media,3.9,75.2,13,Yes,4
+EDU00997,2025-01-01,30,Female,Tamil Nadu,Bachelor's,Student,Machine Learning Basics,Social Media,7.6,58.7,14,Yes,2
+EDU00998,2025-09-28,37,Female,Karnataka,Master's,Student,Machine Learning Basics,Email Campaign,7.7,50.3,13,Yes,3
+EDU00999,2025-02-25,22,Female,Karnataka,High School,Employed Part-time,Data Science Foundations,Referral,3.5,29.3,12,Yes,3
+EDU01000,2025-09-11,44,Male,Maharashtra,Master's,Self-employed,SQL for Analytics,Social Media,2.3,40.0,9,Yes,3
+EDU01001,2025-01-28,19,Prefer not to say,West Bengal,Master's,Employed Part-time,Python for Data Analysis,Paid Ads,7.4,75.9,11,Yes,4
+EDU01002,2025-11-22,45,Male,Other,Other,Employed Part-time,SQL for Analytics,Referral,1.1,32.5,11,Yes,3
+EDU01003,2025-12-23,40,Male,Tamil Nadu,Diploma,Seeking work,SQL for Analytics,Organic Search,1.0,56.7,6,Yes,5
+EDU01004,2025-04-26,19,Male,Other,Bachelor's,Seeking work,Data Science Foundations,Email Campaign,4.1,51.3,16,Yes,3
+EDU01005,2025-06-27,36,Female,Other,Bachelor's,Student,Data Science Foundations,Organic Search,4.7,67.1,8,Yes,4
+EDU01006,2025-08-15,25,Female,Maharashtra,Master's,Student,Web Development,Referral,2.2,34.7,10,No,3
+EDU01007,2025-08-04,35,Male,Maharashtra,Other,Student,SQL for Analytics,Organic Search,5.0,46.1,11,No,4
+EDU01008,2025-01-10,17,Female,Maharashtra,Bachelor's,Seeking work,SQL for Analytics,Organic Search,5.1,56.5,10,Yes,4
+EDU01009,2025-12-24,45,Female,Maharashtra,Bachelor's,Student,Python for Data Analysis,Paid Ads,3.4,54.4,14,No,2
+EDU01010,2025-12-08,36,Female,Tamil Nadu,Diploma,Employed Full-time,Python for Data Analysis,Organic Search,9.0,68.9,15,Yes,4
+EDU01011,2025-06-27,31,Female,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Email Campaign,5.4,60.1,12,No,4
+EDU01012,2025-07-22,51,Male,Other,Master's,Employed Full-time,Web Development,Referral,7.0,70.1,15,Yes,5
+EDU01013,2025-03-04,42,Female,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Organic Search,1.3,23.2,9,No,4
+EDU01014,2025-10-01,40,Female,Karnataka,Bachelor's,Self-employed,Data Science Foundations,Paid Ads,1.3,36.1,15,No,3
+EDU01015,2025-07-07,22,Male,Other,Other,Employed Full-time,Web Development,Organic Search,5.5,50.8,16,Yes,4
+EDU01016,2025-04-14,36,Male,Other,High School,Self-employed,SQL for Analytics,Referral,8.6,63.8,11,Yes,5
+EDU01017,2025-04-23,44,Female,West Bengal,Bachelor's,Student,Data Science Foundations,Email Campaign,2.3,49.1,15,Yes,4
+EDU01018,2025-01-30,53,Female,West Bengal,Bachelor's,Self-employed,Machine Learning Basics,Email Campaign,4.8,48.1,18,Yes,4
+EDU01019,2025-10-15,40,Female,Other,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,1.8,18.1,9,Yes,4
+EDU01020,2025-01-23,23,Female,Tamil Nadu,Master's,Student,Web Development,Paid Ads,2.9,43.8,12,Yes,3
+EDU01021,2025-07-25,43,Female,Other,Bachelor's,Seeking work,Python for Data Analysis,Paid Ads,4.9,41.8,16,No,3
+EDU01022,2025-10-25,19,Female,Maharashtra,High School,Seeking work,Business Intelligence,Social Media,3.4,54.6,9,Yes,4
+EDU01023,2025-01-20,29,Male,Tamil Nadu,Diploma,Self-employed,Data Science Foundations,Referral,1.6,51.1,12,Yes,3
+EDU01024,2025-02-25,52,Male,Delhi NCR,Bachelor's,Seeking work,Business Intelligence,Social Media,1.6,15.3,10,Yes,1
+EDU01025,2025-10-06,48,Male,Maharashtra,Bachelor's,Employed Full-time,Business Intelligence,Social Media,0.5,27.7,6,No,3
+EDU01026,2025-10-28,52,Male,Maharashtra,Bachelor's,Student,Business Intelligence,Social Media,5.5,61.2,10,Yes,4
+EDU01027,2025-01-30,30,Male,Maharashtra,Bachelor's,Student,Web Development,Organic Search,5.8,41.3,15,No,3
+EDU01028,2025-04-07,43,Male,Karnataka,High School,Seeking work,Machine Learning Basics,Email Campaign,5.8,67.6,13,Yes,3
+EDU01029,2025-08-10,44,Male,Maharashtra,Master's,Self-employed,Python for Data Analysis,Organic Search,2.5,57.6,8,Yes,4
+EDU01030,2025-07-17,26,Male,Delhi NCR,Bachelor's,Seeking work,Python for Data Analysis,Organic Search,6.7,59.9,14,Yes,4
+EDU01031,2025-07-08,53,Male,West Bengal,Bachelor's,Self-employed,Data Science Foundations,Social Media,6.1,50.1,10,Yes,4
+EDU01032,2025-04-06,54,Male,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,4.5,25.3,11,Yes,3
+EDU01033,2025-07-16,21,Male,Uttar Pradesh,Diploma,Student,Data Science Foundations,Referral,4.2,61.6,8,Yes,4
+EDU01034,2025-01-19,46,Female,Maharashtra,Diploma,Student,Business Intelligence,Referral,3.1,71.4,7,Yes,3
+EDU01035,2025-11-15,34,Female,West Bengal,High School,Employed Full-time,Business Intelligence,Organic Search,4.9,76.1,6,Yes,4
+EDU01036,2025-07-17,43,Female,Maharashtra,Bachelor's,Self-employed,Web Development,Organic Search,8.1,65.1,15,No,5
+EDU01037,2025-05-17,38,Female,Karnataka,Diploma,Student,SQL for Analytics,Organic Search,7.0,49.9,9,Yes,3
+EDU01038,2025-05-14,25,Female,Delhi NCR,Diploma,Seeking work,Business Intelligence,Referral,3.9,60.7,11,Yes,3
+EDU01039,2025-05-16,20,Female,Other,Other,Employed Part-time,Business Intelligence,Social Media,5.7,56.3,11,Yes,3
+EDU01040,2025-06-08,37,Female,Other,Bachelor's,Employed Full-time,Web Development,Email Campaign,2.1,49.1,13,No,3
+EDU01041,2025-03-12,49,Prefer not to say,West Bengal,Bachelor's,Seeking work,Business Intelligence,Referral,6.1,63.0,7,Yes,4
+EDU01042,2025-08-08,49,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,2.7,46.9,9,Yes,4
+EDU01043,2025-03-09,27,Female,Delhi NCR,Diploma,Employed Part-time,Python for Data Analysis,Organic Search,6.0,71.3,16,Yes,4
+EDU01044,2025-04-25,50,Female,Uttar Pradesh,High School,Employed Full-time,Web Development,Social Media,11.0,91.8,10,Yes,4
+EDU01045,2025-11-14,30,Female,Maharashtra,Master's,Employed Full-time,Machine Learning Basics,Social Media,3.2,41.5,21,No,3
+EDU01046,2025-07-25,38,Male,Karnataka,Bachelor's,Student,Business Intelligence,Social Media,10.9,67.5,11,Yes,3
+EDU01047,2025-11-26,29,Male,Other,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,5.6,27.4,9,No,2
+EDU01048,2025-08-29,37,Female,Other,Other,Self-employed,Business Intelligence,Organic Search,2.9,42.4,9,Yes,4
+EDU01049,2025-10-13,37,Male,Karnataka,High School,Seeking work,Business Intelligence,Social Media,2.7,32.7,11,No,4
+EDU01050,2025-02-02,44,Female,Karnataka,Bachelor's,Seeking work,Web Development,Paid Ads,9.7,78.8,15,Yes,4
+EDU01051,2025-07-04,35,Male,Maharashtra,High School,Student,Web Development,Paid Ads,5.6,53.4,14,Yes,4
+EDU01052,2025-05-08,37,Male,Delhi NCR,Bachelor's,Seeking work,Data Science Foundations,Social Media,3.3,45.5,12,Yes,4
+EDU01053,2025-01-07,42,Male,Maharashtra,Master's,Student,Python for Data Analysis,Referral,4.1,61.1,12,Yes,4
+EDU01054,2025-02-02,33,Female,Tamil Nadu,High School,Student,Python for Data Analysis,Organic Search,5.4,61.4,12,Yes,5
+EDU01055,2025-03-11,37,Male,Maharashtra,Other,Employed Part-time,SQL for Analytics,Email Campaign,4.5,51.6,11,Yes,3
+EDU01056,2025-01-03,20,Male,Maharashtra,Bachelor's,Seeking work,Business Intelligence,Referral,5.3,76.4,9,Yes,4
+EDU01057,2025-06-09,50,Male,Karnataka,Bachelor's,Seeking work,Business Intelligence,Social Media,8.4,77.5,10,No,4
+EDU01058,2025-01-19,21,Female,West Bengal,High School,Self-employed,SQL for Analytics,Social Media,2.0,38.0,6,No,4
+EDU01059,2025-10-28,51,Female,Karnataka,Bachelor's,Student,Data Science Foundations,Social Media,5.9,54.1,16,Yes,3
+EDU01060,2025-08-05,46,Female,Delhi NCR,Bachelor's,Student,SQL for Analytics,Email Campaign,4.3,61.7,8,Yes,5
+EDU01061,2025-12-18,53,Female,Uttar Pradesh,Diploma,Student,Business Intelligence,Organic Search,3.4,51.0,10,Yes,4
+EDU01062,2025-01-31,17,Male,West Bengal,Bachelor's,Employed Full-time,Machine Learning Basics,Referral,6.9,49.1,11,Yes,5
+EDU01063,2025-01-30,25,Female,Karnataka,High School,Employed Full-time,Python for Data Analysis,Organic Search,1.3,50.9,16,No,4
+EDU01064,2025-11-14,19,Female,Uttar Pradesh,Other,Student,Data Science Foundations,Email Campaign,0.5,52.1,14,Yes,3
+EDU01065,2025-05-24,33,Male,Karnataka,Bachelor's,Employed Full-time,SQL for Analytics,Organic Search,5.0,69.2,8,Yes,4
+EDU01066,2025-10-05,52,Male,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Paid Ads,4.2,70.3,7,Yes,5
+EDU01067,2025-03-11,46,Prefer not to say,Delhi NCR,Master's,Employed Part-time,Business Intelligence,Social Media,1.5,65.8,7,Yes,3
+EDU01068,2025-01-04,44,Male,Other,Bachelor's,Employed Full-time,Web Development,Social Media,0.7,58.6,11,Yes,2
+EDU01069,2025-07-01,50,Male,Other,Master's,Employed Full-time,Python for Data Analysis,Social Media,8.7,73.9,9,Yes,3
+EDU01070,2025-07-29,17,Male,West Bengal,Other,Employed Part-time,Data Science Foundations,Referral,5.5,54.5,12,No,4
+EDU01071,2025-02-10,47,Female,Other,Diploma,Employed Part-time,Data Science Foundations,Social Media,4.5,31.0,12,No,4
+EDU01072,2025-01-04,29,Female,Maharashtra,Bachelor's,Student,Data Science Foundations,Social Media,9.3,72.3,12,Yes,3
+EDU01073,2025-03-19,43,Male,Uttar Pradesh,Bachelor's,Student,SQL for Analytics,Organic Search,6.7,68.0,10,Yes,4
+EDU01074,2025-02-09,46,Female,Maharashtra,High School,Seeking work,Python for Data Analysis,Social Media,8.4,69.1,12,Yes,4
+EDU01075,2025-12-30,43,Female,Karnataka,Bachelor's,Employed Part-time,Python for Data Analysis,Email Campaign,1.9,19.9,9,Yes,4
+EDU01076,2025-12-27,33,Male,Delhi NCR,High School,Student,Business Intelligence,Organic Search,1.8,38.8,11,Yes,5
+EDU01077,2025-01-06,40,Female,Uttar Pradesh,Master's,Employed Full-time,Python for Data Analysis,Paid Ads,5.9,66.3,12,Yes,4
+EDU01078,2025-06-16,35,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Business Intelligence,Paid Ads,5.4,44.3,9,No,4
+EDU01079,2025-05-21,41,Female,Other,Bachelor's,Student,Data Science Foundations,Email Campaign,7.2,65.8,16,Yes,5
+EDU01080,2025-01-10,34,Female,Tamil Nadu,Bachelor's,Student,Data Science Foundations,Organic Search,0.9,43.8,15,No,3
+EDU01081,2025-09-01,32,Male,Other,Other,Seeking work,Python for Data Analysis,Referral,6.0,72.4,13,Yes,5
+EDU01082,2025-11-07,24,Female,Other,Bachelor's,Employed Full-time,Python for Data Analysis,Paid Ads,6.7,82.4,13,Yes,4
+EDU01083,2025-08-12,32,Male,West Bengal,Master's,Student,Data Science Foundations,Social Media,6.6,56.9,16,Yes,4
+EDU01084,2025-12-01,45,Female,Maharashtra,Master's,Self-employed,Business Intelligence,Social Media,3.6,51.6,10,Yes,4
+EDU01085,2025-08-21,50,Male,Tamil Nadu,High School,Employed Full-time,Web Development,Social Media,5.6,60.0,10,Yes,4
+EDU01086,2025-07-20,21,Female,Uttar Pradesh,High School,Employed Full-time,Python for Data Analysis,Social Media,2.8,54.0,14,No,4
+EDU01087,2025-12-12,24,Female,Other,Diploma,Employed Full-time,Python for Data Analysis,Organic Search,3.9,57.0,16,Yes,5
+EDU01088,2025-09-15,36,Male,Maharashtra,Bachelor's,Student,Python for Data Analysis,Organic Search,2.2,60.9,15,Yes,3
+EDU01089,2025-10-07,44,Female,Karnataka,Bachelor's,Student,Business Intelligence,Referral,2.8,18.2,6,Yes,1
+EDU01090,2025-10-12,23,Male,Karnataka,Bachelor's,Seeking work,Python for Data Analysis,Social Media,4.0,56.0,12,Yes,5
+EDU01091,2025-01-12,29,Female,Karnataka,Other,Employed Full-time,Data Science Foundations,Organic Search,3.4,54.4,13,Yes,5
+EDU01092,2025-09-26,18,Female,West Bengal,High School,Self-employed,Web Development,Paid Ads,2.8,43.4,10,No,4
+EDU01093,2025-10-01,19,Female,Maharashtra,Master's,Student,Web Development,Social Media,1.6,14.2,14,No,3
+EDU01094,2025-06-30,22,Male,Karnataka,Bachelor's,Self-employed,Machine Learning Basics,Organic Search,8.8,69.5,16,Yes,5
+EDU01095,2025-07-25,45,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Python for Data Analysis,Organic Search,3.4,40.1,11,Yes,4
+EDU01096,2025-10-31,50,Female,Delhi NCR,High School,Employed Part-time,Data Science Foundations,Social Media,5.2,75.9,11,Yes,4
+EDU01097,2025-02-21,36,Male,Maharashtra,Bachelor's,Employed Full-time,Data Science Foundations,Referral,0.6,41.9,16,No,4
+EDU01098,2025-07-12,23,Female,Tamil Nadu,Master's,Employed Full-time,Machine Learning Basics,Organic Search,7.5,55.5,21,No,3
+EDU01099,2025-10-09,52,Male,Delhi NCR,Bachelor's,Student,Business Intelligence,Paid Ads,4.9,30.0,10,Yes,3
+EDU01100,2025-04-05,27,Prefer not to say,Other,Bachelor's,Student,Python for Data Analysis,Paid Ads,3.5,56.1,16,Yes,4
+EDU01101,2025-04-07,23,Male,Uttar Pradesh,Bachelor's,Self-employed,Web Development,Social Media,3.5,57.4,17,Yes,3
+EDU01102,2025-01-02,22,Female,Other,Bachelor's,Student,SQL for Analytics,Email Campaign,6.4,58.0,8,No,3
+EDU01103,2025-04-24,30,Female,Maharashtra,Bachelor's,Student,Business Intelligence,Referral,0.5,44.2,6,No,5
+EDU01104,2025-05-11,45,Prefer not to say,Uttar Pradesh,Bachelor's,Seeking work,Python for Data Analysis,Paid Ads,2.7,41.6,15,No,3
+EDU01105,2025-12-14,32,Male,Tamil Nadu,Master's,Student,Data Science Foundations,Social Media,4.2,64.6,14,Yes,4
+EDU01106,2025-01-31,34,Female,Uttar Pradesh,Bachelor's,Employed Full-time,Python for Data Analysis,Referral,4.2,63.7,11,Yes,4
+EDU01107,2025-08-24,30,Prefer not to say,Delhi NCR,High School,Self-employed,Machine Learning Basics,Organic Search,10.0,55.3,22,Yes,4
+EDU01108,2025-01-24,53,Prefer not to say,Maharashtra,Master's,Employed Part-time,Python for Data Analysis,Organic Search,3.8,33.5,11,Yes,4
+EDU01109,2025-10-19,43,Female,Maharashtra,Bachelor's,Student,Data Science Foundations,Paid Ads,6.7,86.2,16,Yes,5
+EDU01110,2025-06-21,42,Female,West Bengal,Master's,Employed Full-time,Business Intelligence,Social Media,8.5,80.2,9,Yes,4
+EDU01111,2025-06-05,34,Male,West Bengal,Bachelor's,Employed Full-time,Business Intelligence,Social Media,6.0,43.9,6,Yes,4
+EDU01112,2025-12-11,37,Male,Maharashtra,High School,Employed Full-time,Machine Learning Basics,Organic Search,3.0,28.2,21,No,3
+EDU01113,2025-10-01,51,Male,Tamil Nadu,Bachelor's,Employed Part-time,Machine Learning Basics,Paid Ads,1.7,44.3,20,No,5
+EDU01114,2025-02-08,42,Female,Uttar Pradesh,High School,Seeking work,Machine Learning Basics,Social Media,6.1,45.7,18,No,4
+EDU01115,2025-04-08,48,Female,Tamil Nadu,Master's,Student,Machine Learning Basics,Organic Search,8.1,63.6,18,Yes,3
+EDU01116,2025-04-10,18,Female,Karnataka,Other,Student,Data Science Foundations,Referral,5.7,57.2,10,Yes,4
+EDU01117,2025-08-11,50,Female,Other,Bachelor's,Employed Part-time,Python for Data Analysis,Organic Search,7.2,62.7,10,Yes,3
+EDU01118,2025-10-30,54,Male,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Social Media,10.2,89.3,6,Yes,5
+EDU01119,2025-08-21,43,Female,Uttar Pradesh,Bachelor's,Self-employed,Python for Data Analysis,Email Campaign,6.3,82.2,9,Yes,4
+EDU01120,2025-05-27,54,Female,Uttar Pradesh,Bachelor's,Student,SQL for Analytics,Paid Ads,2.1,37.7,8,Yes,3
+EDU01121,2025-09-30,39,Male,Uttar Pradesh,High School,Student,SQL for Analytics,Email Campaign,4.6,39.8,9,Yes,3
+EDU01122,2025-10-04,27,Female,Maharashtra,Master's,Employed Part-time,Python for Data Analysis,Organic Search,7.5,69.7,9,Yes,5
+EDU01123,2025-01-30,40,Female,Other,Bachelor's,Seeking work,Business Intelligence,Social Media,4.0,70.6,9,Yes,4
+EDU01124,2025-07-17,41,Non-binary,Karnataka,Bachelor's,Student,Machine Learning Basics,Email Campaign,7.8,61.4,14,Yes,4
+EDU01125,2025-09-17,22,Female,West Bengal,Diploma,Self-employed,SQL for Analytics,Social Media,4.4,62.8,7,Yes,3
+EDU01126,2025-08-09,24,Male,Other,Other,Employed Full-time,Web Development,Email Campaign,5.2,45.8,17,Yes,4
+EDU01127,2025-03-31,28,Female,Uttar Pradesh,Other,Student,Data Science Foundations,Social Media,3.7,50.1,17,Yes,3
+EDU01128,2025-02-28,38,Female,Tamil Nadu,Bachelor's,Employed Full-time,Data Science Foundations,Paid Ads,4.9,40.7,15,No,3
+EDU01129,2025-04-17,22,Male,Maharashtra,Diploma,Student,Python for Data Analysis,Social Media,5.0,55.1,8,Yes,4
+EDU01130,2025-05-09,47,Female,Delhi NCR,Master's,Employed Part-time,SQL for Analytics,Paid Ads,1.0,37.6,10,No,3
+EDU01131,2025-12-03,21,Male,Tamil Nadu,Bachelor's,Employed Full-time,Python for Data Analysis,Social Media,3.5,56.3,10,Yes,3
+EDU01132,2025-08-15,53,Female,Maharashtra,Other,Employed Full-time,Web Development,Email Campaign,1.8,63.5,13,Yes,3
+EDU01133,2025-11-02,43,Male,Maharashtra,Master's,Student,Data Science Foundations,Organic Search,3.6,44.7,16,Yes,3
+EDU01134,2025-01-10,30,Female,Other,Master's,Self-employed,SQL for Analytics,Referral,2.8,22.2,8,No,3
+EDU01135,2025-10-14,31,Male,Karnataka,High School,Seeking work,SQL for Analytics,Social Media,6.7,59.4,11,Yes,3
+EDU01136,2025-03-10,44,Male,Karnataka,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,6.8,65.8,14,Yes,4
+EDU01137,2025-07-26,20,Male,Karnataka,Other,Employed Full-time,Business Intelligence,Social Media,5.7,60.2,7,Yes,5
+EDU01138,2025-05-22,44,Female,Tamil Nadu,Bachelor's,Seeking work,Machine Learning Basics,Organic Search,1.7,39.9,12,No,4
+EDU01139,2025-11-12,38,Male,Delhi NCR,Master's,Student,Business Intelligence,Paid Ads,4.3,70.1,10,Yes,5
+EDU01140,2025-09-04,25,Male,West Bengal,Bachelor's,Self-employed,Machine Learning Basics,Email Campaign,1.5,42.6,16,Yes,3
+EDU01141,2025-06-18,51,Female,Delhi NCR,Other,Employed Full-time,SQL for Analytics,Email Campaign,4.2,50.5,6,Yes,5
+EDU01142,2025-07-05,41,Male,Maharashtra,Bachelor's,Seeking work,SQL for Analytics,Social Media,5.9,49.3,6,No,4
+EDU01143,2025-09-16,23,Female,Delhi NCR,High School,Employed Full-time,Machine Learning Basics,Organic Search,6.7,40.8,22,No,4
+EDU01144,2025-09-20,42,Female,Maharashtra,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,5.5,61.0,10,Yes,4
+EDU01145,2025-07-29,33,Male,West Bengal,High School,Employed Full-time,SQL for Analytics,Organic Search,7.3,67.1,11,Yes,4
+EDU01146,2025-09-23,46,Female,Maharashtra,Bachelor's,Student,Python for Data Analysis,Referral,5.1,42.7,14,Yes,4
+EDU01147,2025-10-16,36,Female,Maharashtra,Master's,Student,Machine Learning Basics,Email Campaign,4.0,50.5,14,No,4
+EDU01148,2025-01-12,55,Male,Delhi NCR,Diploma,Seeking work,Python for Data Analysis,Organic Search,6.4,58.9,11,Yes,3
+EDU01149,2025-05-14,53,Male,Maharashtra,Other,Student,Web Development,Organic Search,6.5,53.5,15,Yes,4
+EDU01150,2025-11-26,18,Female,Tamil Nadu,High School,Student,Python for Data Analysis,Organic Search,3.3,38.7,12,No,4
+EDU01151,2025-04-28,33,Female,Delhi NCR,Bachelor's,Student,Data Science Foundations,Social Media,5.3,61.1,9,Yes,4
+EDU01152,2025-10-28,24,Female,Other,Other,Employed Full-time,Data Science Foundations,Organic Search,3.9,47.9,10,Yes,4
+EDU01153,2025-07-20,34,Male,Maharashtra,Bachelor's,Employed Full-time,Data Science Foundations,Social Media,0.5,29.9,16,No,3
+EDU01154,2025-04-09,22,Female,Tamil Nadu,Master's,Student,Data Science Foundations,Organic Search,5.5,46.7,14,Yes,4
+EDU01155,2025-05-08,37,Male,Uttar Pradesh,Other,Self-employed,Machine Learning Basics,Organic Search,1.7,40.2,17,No,3
+EDU01156,2025-06-26,23,Male,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Email Campaign,5.2,66.9,10,Yes,4
+EDU01157,2025-02-15,41,Non-binary,Tamil Nadu,Master's,Student,Data Science Foundations,Paid Ads,1.1,41.9,12,No,3
+EDU01158,2025-04-23,34,Female,Other,High School,Self-employed,Python for Data Analysis,Organic Search,2.9,43.8,15,No,4
+EDU01159,2025-09-06,55,Female,West Bengal,Bachelor's,Employed Full-time,Data Science Foundations,Organic Search,3.5,52.7,9,Yes,4
+EDU01160,2025-11-27,51,Female,Other,Diploma,Employed Full-time,Web Development,Social Media,7.1,79.8,17,Yes,4
+EDU01161,2025-12-13,40,Female,Uttar Pradesh,Master's,Seeking work,Data Science Foundations,Email Campaign,3.3,54.1,16,Yes,5
+EDU01162,2025-05-20,34,Female,Delhi NCR,Bachelor's,Seeking work,Business Intelligence,Referral,2.1,46.5,7,Yes,4
+EDU01163,2025-10-17,44,Male,Other,Bachelor's,Employed Full-time,SQL for Analytics,Referral,5.3,63.9,11,Yes,5
+EDU01164,2025-05-25,43,Female,Maharashtra,Master's,Employed Full-time,SQL for Analytics,Referral,4.0,49.1,10,Yes,4
+EDU01165,2025-10-22,22,Female,Tamil Nadu,High School,Employed Full-time,Business Intelligence,Paid Ads,6.2,62.0,9,Yes,4
+EDU01166,2025-11-29,31,Male,Uttar Pradesh,Other,Employed Full-time,Python for Data Analysis,Organic Search,2.3,38.3,9,Yes,3
+EDU01167,2025-06-12,55,Prefer not to say,Other,High School,Employed Part-time,Web Development,Organic Search,5.0,36.4,16,No,3
+EDU01168,2025-08-08,29,Female,Other,Bachelor's,Student,SQL for Analytics,Social Media,9.9,78.7,8,Yes,2
+EDU01169,2025-11-13,17,Male,Maharashtra,Bachelor's,Seeking work,Data Science Foundations,Referral,4.0,55.2,15,Yes,4
+EDU01170,2025-02-20,49,Male,Uttar Pradesh,Bachelor's,Employed Part-time,Web Development,Organic Search,4.9,51.1,11,Yes,4
+EDU01171,2025-04-01,53,Female,Maharashtra,Bachelor's,Student,Data Science Foundations,Paid Ads,0.8,50.6,11,No,3
+EDU01172,2025-08-17,42,Male,West Bengal,Master's,Self-employed,Web Development,Email Campaign,2.6,36.7,17,Yes,3
+EDU01173,2025-03-07,41,Female,Uttar Pradesh,Master's,Employed Part-time,Web Development,Paid Ads,5.5,35.7,12,Yes,2
+EDU01174,2025-10-17,30,Female,Maharashtra,Diploma,Employed Full-time,Data Science Foundations,Paid Ads,3.8,41.8,9,No,4
+EDU01175,2025-04-08,31,Female,West Bengal,Diploma,Employed Full-time,Data Science Foundations,Referral,5.9,40.1,16,Yes,3
+EDU01176,2025-05-04,52,Female,Delhi NCR,High School,Self-employed,Business Intelligence,Paid Ads,5.4,60.7,7,Yes,3
+EDU01177,2025-10-23,50,Male,Tamil Nadu,Bachelor's,Seeking work,Python for Data Analysis,Email Campaign,1.6,32.4,16,No,4
+EDU01178,2025-07-12,36,Male,Other,High School,Employed Full-time,Business Intelligence,Social Media,6.7,73.6,11,No,4
+EDU01179,2025-10-16,29,Female,Uttar Pradesh,Bachelor's,Employed Part-time,Python for Data Analysis,Referral,1.8,53.8,9,Yes,3
+EDU01180,2025-08-17,24,Male,Tamil Nadu,Master's,Self-employed,Python for Data Analysis,Paid Ads,2.8,35.1,13,No,3
+EDU01181,2025-07-07,17,Female,Maharashtra,Other,Seeking work,SQL for Analytics,Email Campaign,5.0,45.3,11,No,4
+EDU01182,2025-07-06,35,Female,Maharashtra,Master's,Student,Business Intelligence,Email Campaign,7.9,73.0,11,Yes,5
+EDU01183,2025-10-21,38,Male,Maharashtra,High School,Employed Full-time,Business Intelligence,Organic Search,2.3,56.0,9,Yes,4
+EDU01184,2025-12-31,43,Female,Karnataka,Bachelor's,Seeking work,Machine Learning Basics,Paid Ads,4.8,30.0,19,No,3
+EDU01185,2025-01-09,48,Male,Karnataka,High School,Student,Data Science Foundations,Social Media,4.8,57.6,13,Yes,4
+EDU01186,2025-07-04,31,Female,Tamil Nadu,Bachelor's,Employed Full-time,SQL for Analytics,Referral,5.9,32.2,7,Yes,3
+EDU01187,2025-10-13,23,Male,Uttar Pradesh,Bachelor's,Employed Full-time,Data Science Foundations,Email Campaign,7.1,56.8,14,Yes,4
+EDU01188,2025-08-23,49,Female,Maharashtra,Other,Employed Full-time,Data Science Foundations,Referral,3.6,62.5,11,Yes,4
+EDU01189,2025-06-26,46,Female,Tamil Nadu,Bachelor's,Employed Part-time,Data Science Foundations,Organic Search,6.7,97.9,11,Yes,5
+EDU01190,2025-10-17,37,Male,Other,Diploma,Student,Machine Learning Basics,Email Campaign,7.4,61.7,16,Yes,4
+EDU01191,2025-06-20,18,Male,Maharashtra,Bachelor's,Self-employed,Python for Data Analysis,Organic Search,8.4,53.6,16,Yes,3
+EDU01192,2025-02-19,35,Female,Uttar Pradesh,Other,Employed Full-time,Python for Data Analysis,Social Media,5.6,51.2,10,Yes,4
+EDU01193,2025-04-10,41,Male,Maharashtra,High School,Self-employed,Machine Learning Basics,Organic Search,4.8,55.0,14,Yes,5
+EDU01194,2025-01-17,50,Female,Tamil Nadu,Master's,Employed Full-time,Python for Data Analysis,Referral,3.5,41.0,8,No,3
+EDU01195,2025-09-14,36,Female,Uttar Pradesh,Diploma,Student,Web Development,Organic Search,1.3,29.1,9,No,3
+EDU01196,2025-12-22,35,Female,Maharashtra,High School,Seeking work,Data Science Foundations,Social Media,3.9,45.5,17,No,3
+EDU01197,2025-05-19,31,Male,Karnataka,Master's,Self-employed,Python for Data Analysis,Paid Ads,4.7,58.5,12,Yes,4
+EDU01198,2025-09-25,33,Male,Other,High School,Employed Full-time,Web Development,Social Media,4.3,50.2,10,Yes,4
+EDU01199,2025-12-25,17,Male,Maharashtra,Master's,Student,Machine Learning Basics,Paid Ads,5.8,47.6,22,No,5
+EDU01200,2025-05-24,21,Male,Uttar Pradesh,High School,Employed Full-time,Business Intelligence,Referral,1.3,32.2,6,No,3
