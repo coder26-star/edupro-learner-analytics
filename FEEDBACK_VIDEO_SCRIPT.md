@@ -1,6 +1,6 @@
-# Project Feedback Video Script (about 60–90 seconds)
+# Project Feedback Video Script 
 
-Hello, my name is [your name], and my project is “Learner Demographics and Course Enrollment Behavior Analysis on EduPro.”
+Hello, my name is Purva Yogesh Pawar, and my project is “Learner Demographics and Course Enrollment Behavior Analysis on EduPro.”
 
 The purpose is to summarize learner profiles, understand course demand, track monthly enrollments, and compare engagement, completion and satisfaction metrics. The dashboard is built with Python, pandas, Plotly and Streamlit.
 
